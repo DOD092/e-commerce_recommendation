@@ -1,0 +1,490 @@
+﻿product_id,customer_id,customer_name,rating,title,content,thank_count,created_at,kw,group
+1447509,1952836,Lê Quốc Nam,5,Cực kì hài lòng,Giao hàng đúng hẹn và giao đúng sản phẩm.,0,1718423958,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,30293195,Ngọc nguyễn,5,Cực kì hài lòng,,0,1744472018,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,10062252,Do Duy Hưng,5,Cực kì hài lòng,,0,1725859312,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,5359438,Nguyễn Thị Ngọc Khánh,5,Cực kì hài lòng,"Mình chưa dùng thử nhưng cảm nhận ban đầu rất ổn. Cầm chắc tay, nhựa ko mùi . Có lẽ ok đó .",0,1621140574,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,1079295,Nguyễn Thảo Tiên,5,Cực kì hài lòng,"Mua lần thứ 2, thật sự rất thích. Vừa có thể đậy thức ăn bình thường lại vừa sử dụng trong lò vi sóng giúp lò luôn sạch và hạn chế dùng màn bọc thực phẩm, vừa tiết kiệm vừa bảo vệ môi trường.",0,1588558972,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,17882260,Duong Hai Dang,4,Hài lòng,Khả quan,0,1667713613,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,8316515,Hai Anh,5,Cực kì hài lòng,"Hàng nhìn thấy sịn sò. Giá cả hợp lí, hi vọng chất lượng tốt.",0,1625475843,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,19553807,Le Quang Lai,4,Hài lòng,Giao trễ 1ngày,0,1638506376,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,22878997,Le Thao Hien,5,Cực kì hài lòng,"Nhựa dày, đóng gói kĩ",0,1632194254,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,795324,Hồ Lê Chí Hiếu,5,Cực kì hài lòng,Dùng tốt. Dễ rửa,0,1647491828,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,17507904,Phuoc Thai,4,Hài lòng,"Sản phẩm đẹp, mới nhận chưa dùng nên chưa đánh giá chất lượng được
+Giao hàng nhanh hơn dự kiến, đóng gói gọn đẹp
+Sẽ ủng hộ nhà cung cấp này",0,1591872712,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,9126782,Lê Tú Anh,5,Cực kì hài lòng,Sp tốt,0,1641804843,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,8694986,Nguyễn Quang Hiền,5,Cực kì hài lòng,,0,1642235306,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,18189340,Thanh Hải,5,Cực kì hài lòng,,0,1641363129,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,12778,phạm thị thanh  giang,5,Cực kì hài lòng,"nắp chất lượng tốt, nhưng hơi nông.",0,1625917057,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,15795496,Nguyễn Quốc Chiến,5,Cực kì hài lòng,,0,1639105958,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,12357323,Dinh Hiep,3,Bình thường,hoi thấp cao thêm  chut nữa  thi ok,0,1615442298,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,7407372,Vu Thi Ngoc Dung,4,Cực kì hài lòng,,0,1627566943,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,8098031,Thutrang Nguyenthi,4,Hài lòng,,0,1621381925,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,1128787,Tiên Phan,4,Hài lòng,,0,1620414859,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,8415252,Nguyễn Minh Hùng ,5,Cực kì hài lòng,yes,0,1618812144,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,11820572,Trương Hoàng Mỹ Linh,5,Cực kì hài lòng,,0,1618288600,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,11342131,Nguyễn Thị Thuỷ Tiên,5,Cực kì hài lòng,,0,1618206361,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,10393780,Lê Đức Sơn,5,Cực kì hài lòng,,0,1617790368,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,7345770,Nguyễn Văn Luyến,5,Cực kì hài lòng,,0,1617580595,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,11961150,Vũ Công Nam,5,Cực kì hài lòng,,0,1617359258,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,6954465,Nguyen Thanh Truc,5,Cực kì hài lòng,,0,1616168975,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,9620086,Tran mai anh,5,Cực kì hài lòng,,0,1615727848,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,8496498,Truong Mai Van,5,Cực kì hài lòng,,0,1613722313,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,458749,Ha  Thi Lan Anh,5,Cực kì hài lòng,,0,1612690515,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,10072062,Trương Thị Thu Thủy,4,Hài lòng,"rất thích, nhưng chưa dùng thử",0,1591266771,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,16518981,Hoa Hhh,5,Cực kì hài lòng,Hàng tốt đẹp sử dụng hiệu quả,0,1589528448,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,47246,Nguyen Thi Nhu Huong,4,Hài lòng,Có tay cầm không bị nóng,0,1591749874,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,10039631,Ngô Huyền Nhung,4,Hài lòng,Tiện sd trong lò vi sóng.,0,1587660437,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,13484597,Diệu Hoà,4,Hài lòng,,0,1594692005,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,15893536,Nguyễn Thị Phi Phượng,5,Cực kì hài lòng,,0,1592014617,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,8465157,TRAN DUC DUNG,4,Hài lòng,,0,1591948374,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+1447509,17250740,Xuan trang,5,Cực kì hài lòng,,0,1590805964,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113172840,29208885,Apple User,5,Cực kì hài lòng,,0,1696769390,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113172840,27826886,le phat,5,Cực kì hài lòng,chất lượng tốt,0,1661326053,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113172840,17509188,Dang van hoang,5,Cực kì hài lòng,,0,1635861783,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+197227371,9050906,Nguyễn Rập,5,Cực kì hài lòng,,0,1742949711,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+197227371,6910048,Phạm Thái,4,Hài lòng,Bình thường mà giá hơi cao một chút,0,1727399818,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+197227371,5304632,Nguyễn Vĩnh Nghĩa ,3,Bình thường,"Giao hàng thiếu 02 nắp này, shop và bên giao hàng kiểm tra và xác nhận giúp",0,1670287003,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+197227371,15316596,Tran Mai Khanh Ngoc,5,Cực kì hài lòng,Mình mua thêm cái nữa để dùng. Nắp chắc chắn,0,1678804626,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+197227371,21353724,Lâm Ruby,5,Cực kì hài lòng,,0,1687129086,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+197227371,11094430,Trương Phượng,5,Cực kì hài lòng,"đóng gói ổn, sản phẩm tốt",0,1671009477,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,12935567,Huỳnh Nhất Duy,5,Cực kì hài lòng,,0,1735729963,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,23477431,Phương Phạm,5,Cực kì hài lòng,,0,1726396873,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,872659,Nguyen Anh Dung,5,Cực kì hài lòng,"giao nhanh, sản phẩm như mô tả, dùng để đậy thức cho vào lò vi sóng hoặc trong tủ lạnh thấy ổn",0,1624281842,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,6470029,Hoàng Yến,5,Cực kì hài lòng,,0,1675660164,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,8082070,Nguyễn Phong,5,Cực kì hài lòng,,0,1663516278,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,22174413,Le Tuan Kiet,2,Không hài lòng,qua nho lai thap. Thua xa hang Thai Lan.,0,1626141792,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,8107210,Nguyễn cao Mẫn,5,Cực kì hài lòng,Tốt,0,1636985316,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,10402541,ha phong giang,5,Cực kì hài lòng,,0,1638340505,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,117938,Lê Thị Thu Hạ,5,Cực kì hài lòng,"Nắp chắc, dày và đẹp",0,1624535771,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,16979853,Phan tất Chiến,5,Cực kì hài lòng,,0,1629542524,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,11876906,Luong Tu Chau,5,Cực kì hài lòng,,0,1627041680,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,65873,Nguyễn Lê Nhật Minh,5,Cực kì hài lòng,,0,1625922905,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,21960474,HUỲNH NHÃ QUÂN,4,Hài lòng,,0,1625189006,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,11825469,Nguyen Trung Danh,5,Cực kì hài lòng,Ok,0,1622032949,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,18376490,Huỳnh thanh Phong,4,Hài lòng,. ....?.,0,1619966438,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,20379004,Hoang bang thanh,5,Cực kì hài lòng,,0,1621844595,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,10218122,Trịnh Thị Hạnh ,5,Cực kì hài lòng,Hài lòng,0,1617624560,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,467506,Từ Thị Bích Tuyền,4,Hữu ích,"Rất tiện lợi khi hâm nóng thức ăn chiên, rán có dầu mỡ, lau chùi dễ dàng hơn",0,1588776175,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,19796978,Phạm Hùng Phi,4,Hài lòng,,0,1619169174,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,6895772,Dao Quang Tuan,4,Hài lòng,,0,1618908609,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,1303185,Vũ Bá Mạnh Hùng,5,Cực kì hài lòng,,0,1617720479,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,19352692,Cam Tu,5,Cực kì hài lòng,,0,1617547327,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,17057655,Ngô Thị Thuỳ Linh,4,Hài lòng,,0,1617079789,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,6000799,Lê Mạnh Tuấn,5,Cực kì hài lòng,,0,1616920016,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,13206077,An Thao,4,Hài lòng,,0,1616403537,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,11300484,Ngoc Huong,5,Cực kì hài lòng,,0,1616149759,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,8689966,Phương Nguyễn,4,Hài lòng,,0,1614936090,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,1120365,Nguyen hai ngoc,4,Hài lòng,,0,1614839692,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,15197116,Minh Huong,5,Cực kì hài lòng,,0,1614576080,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,542118,Tran thi KimLien,5,Cực kì hài lòng,,0,1614407359,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,13913865,Nyn hoa,5,Cực kì hài lòng,Đạt yêu cầu nhưng nếu có một cái kích thước to hơn thì tốt,0,1588389660,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,8672996,Nguyễn Thị Hằng Nga,5,Cực kì hài lòng,Sp ok,0,1610685432,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,16180573,Vo Thi Phuong,4,2 nắp dành cho lo vi sóng Nhật Bản,Sản phẩm kích thước vừa vặn đĩa lò vi sóng sạch sẽ tôi thích,0,1583641150,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,11438585,Hoang Khue Le,5,Cực kì hài lòng,Good,0,1608005694,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,16681114,Lại Thị Thu Hà,4,Hài lòng,Nhìn ngoài thì ok. chưa dùng nên chưa nhận xét về chất lg,0,1584837160,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,8940422,Lê Bằng Vũ,5,Cực kì hài lòng,,0,1607109461,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,636724,Phạm Thị Hoài Thanh,4,Hài lòng,"Sản phẩm tạm được, chiều cao hơi thấp nên chỉ dùng để úp đĩa",0,1580086291,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,15400855,Vũ Tiến Thành,5,Cực kì hài lòng,,0,1603203726,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,17330759,Cao Hoang Tai,5,Cực kì hài lòng,,0,1601519851,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+7420835,17059314,Xuan Truc Truong,5,Cực kì hài lòng,"Mới dùng lần đầu, thấy cũng ổn!",0,1587439265,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+191596991,5383972,Nguyen Nha Trang,5,Cực kì hài lòng,"Nắp úp thực phẩm nhựa cứng cáp đúng mô tả, dùng trong lò vi sóng thuận tiện, sạch sẽ",0,1741139200,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,14145914,Kim Bach,1,Rất không hài lòng,"Nắp đậy thức ăn lớn hơn cái lò vi sóng một chút,còn bộ đồ sọt trắng say L sao chật, và đôi giày say 38 mà bị chật một số , em cho chị đổi có được không, lúc giao hàng không có chị ở nhà nên không xem",1,1594710124,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,22028366,Ha Phuoc Truong,1,Rất không hài lòng,Khong nhan duoc hang . Sao lai thong bao da giao hang thanh cong. Dang cho TIKI su ly ma khong thay phan hoi. Hoan toan khong chap nhan.,0,1634228103,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,6252654,Long Tran Vu,5,Cực kì hài lòng,,0,1666429497,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,10313678,Nguyen Tran Trieu Thanh,4,Hài lòng,,0,1664941200,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,5842449,Vũ Bảo Cương,3,Bình thường,"Chỉ để che được đĩa, bát cao ko thì dùng ko phù hợp. Với để vào thấy lò vi sóng chạy lâu hơn :(",0,1624600740,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,2135267,Vinh Son,4,Hài lòng,,0,1655280300,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,33986,Trần Thùy Dung,1,Rất không hài lòng,to hơn lò nên ko xài được,1,1643268681,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,6428497,PHAM THI HONG CUC,5,Cực kì hài lòng,,0,1652748130,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,13054065,Nguyễn Thanh Quang,4,Hài lòng,,0,1652594244,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,9990510,Lê Bá Minh Hoàng,5,Cực kì hài lòng,Hài lòng,0,1647592017,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,21353724,ruby lâm,5,Cực kì hài lòng,ok,0,1649546860,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,11454819,Nguyen Doan,4,Hài lòng,"Nấp đậy, rất tiện lợi khi hâm nóng thức ăn",0,1630061047,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,11461614,Nguyen kim chi,4,Hài lòng,,0,1647416410,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,9139372,Trần Đình Tùng,5,Cực kì hài lòng,tốt,0,1644414069,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,10414128,Phan Hương,5,Cực kì hài lòng,Hang rat hữu ích cho gia đình,0,1633717661,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,18253527,Hoàng Thuỷ,1,Rất không hài lòng,tay năm khó cầm trơn và không tròn cho vào lò không tiên,0,1616556193,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,6806957,Tôn Nữ Quỳnh Giao,4,Hài lòng,,0,1632297356,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,6352369,Hòa Thanh Quan,5,Cực kì hài lòng,,0,1632245887,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,5305664,Huỳnh Dương Thu Trâm,5,Cực kì hài lòng,,0,1631234329,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,12636755,Truong ngoc anh,3,Cực kì hài lòng,"Không được vững , dễ bị rót phần nắm",0,1614585332,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,22901775,Lâm Chấn,5,Cực kì hài lòng,,0,1629534405,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,22166865,Mỹ Trà,5,Cực kì hài lòng,Vi an toan,0,1625388926,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,17861722,Tạ Quang Thành,4,Hài lòng,,0,1626173335,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,17696967,AH Tr,5,Cực kì hài lòng,,0,1623221963,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,18665876,Hoang thị Vân anh,5,Cực kì hài lòng,,0,1622183502,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,19780804,Trần Mến,5,Cực kì hài lòng,,0,1620822296,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,19265799,Pham Thi Mai An,4,Hài lòng,,0,1620367295,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,6311302,Zalo Tran Cong Dinh,5,Cực kì hài lòng,,0,1617692388,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,18644432,Đặng Thân,4,Hài lòng,,0,1616822712,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,17803454,Minh Chi Ha,5,Cực kì hài lòng,,0,1615799888,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,9615576,Ngoc Long Duong,5,Cực kì hài lòng,,0,1615474076,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,2133966,Nguyen Le Tuan Phuong,5,Cực kì hài lòng,,0,1612062547,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,15379352,Đa Ra,5,Cực kì hài lòng,,0,1611579602,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,608105,Dang Huynh Thanh Nhan,5,Cực kì hài lòng,,0,1610605829,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,17165442,Nguyễn thị thuy Tiên,3,Bình thường,,0,1607586605,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,531793,Pham Xuan Tung,5,Cực kì hài lòng,,0,1606158103,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,18812226,Dinh Thi Tuyet Hong ,5,Cực kì hài lòng,,0,1602847160,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,13564916,Mai Nguyen,3,Bình thường,,0,1600960898,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,10988077,Nhungnguyen,5,Cực kì hài lòng,,0,1600221974,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+31661387,935186,Le Quang Duc,5,Cực kì hài lòng,,0,1594478228,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,18525138,Hoàng Minh Tuấn,5,Cực kì hài lòng,,0,1761820314,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,10610321,Mai Nguyen,5,Cực kì hài lòng,Hàng đẹp,0,1655342925,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,15682654,Nguyễn thanh Châu,5,Cực kì hài lòng,hài lòng,0,1646972683,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,861281,Nguyen Thi Hong Yen,3,Bình thường,"Sp bị trầy, chất nhựa tốt",0,1637552891,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,6559749,DAM XUAN PHU,5,Cực kì hài lòng,,0,1641371235,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,1746810,van anh,5,Cực kì hài lòng,,0,1639451909,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,22724352,Van Nguyen,5,Cực kì hài lòng,,0,1633580417,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,18979831,Ha Nguyen,5,Cực kì hài lòng,,0,1633328635,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,1937378,hong nguyen,4,Hài lòng,,0,1628521316,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,21052625,Nguyễn Thị Thu Hiền,5,Cực kì hài lòng,sản phẩm rất tốt,0,1619264004,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,10468962,Lưu Thị Thu Thủy,5,Cực kì hài lòng,,0,1623776564,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,310903,Đoàn Thị Diễm Phương,5,Cực kì hài lòng,,0,1623655564,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+54683127,17534969,Thuỳ Trang Lê,4,Hài lòng,,0,1600330723,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+165219187,13156886,Nguyen thi bich tran,2,Không hài lòng,Mình chưa nhận đc hàng nha shop oi,0,1666935071,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+165219187,17269393,Nguyen Thi Diem Hong,4,Hài lòng,,0,1674168799,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,27405351,Chinh Vinh,1,Rất không hài lòng,"lùa đảo , đặt nắp đậy trong lò viba lại giao của nợ này . Trước nay tin tưởng tiki nên ko kiểm - ăn quả đắng",0,1754202346,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,6560114,Nguyễn Khánh Duy,1,Rất không hài lòng,Giao hàng không giống với ảnh. Thiếu bộ phận nắp thông hơi. Đóng gói cẩu thả khi giao đến chỉ có 1 lớp bọc nilon tay cầm bị rơi ra còn lồng bàn thì trầy xước nhiều như hàng đã xài rồi. Thái độ bạn nữ gọi đt giải quyết không hề thân thiện không tôn trọng khách hàng đã tự ý cúp máy khi chưa giải quyết vấn đề sản phẩn mình.,3,1624968856,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,7274161,Hoàng Việt,5,Cực kì hài lòng,"Đường kính nắp vừa vặn với đĩa lò vi sóng. Chất nhựa dày vừa phải. Tay cầm màu cam có thể tháo rời. Nếu nắp cao hơn nữa thì tuyệt. Shop tận ngoài Hà Nội, vào TPHCM mất 4 ngày (25/5 đến 29/5/2022).",0,1653798713,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,16989100,nguyễn quốc doanh,5,Cực kì hài lòng,,0,1717649153,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,17607224,Lê Ngọc Thống,4,Hài lòng,,0,1713929583,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,22569696,tran anh trung,1,Rất không hài lòng,giáo hàng nứt bễ hộp *** móp méo,0,1652444048,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,10087671,Tạ Thùy Châu,1,Rất không hài lòng,Mua 1 kiểu chắc hết hàng nên giao 1 kiểu khác... bó tay...,0,1669010752,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,13107868,Đỗ Văn Huy,3,Bình thường,Giá cao quá sản phẩm thì cũng bình thường,0,1680801393,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,1051836,Phan Hải Nam,5,Cực kì hài lòng,,0,1690983919,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,1306890,Vu Manh Hung,5,Cực kì hài lòng,,0,1690892073,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,11447872,Dongtruc Tran,4,Hài lòng,,0,1686505259,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,10087671,Tạ Thùy Châu,2,Không hài lòng,Gửi hàng k đúng với đơn đặt hàng,0,1671194701,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,12368758,Trúc Cao Thanh,5,Cực kì hài lòng,,0,1680086062,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,7179502,Nguyen duong,4,Hài lòng,,0,1672144828,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,22174126,Lan Nhung,5,Cực kì hài lòng,"Rất tốt, nếu giảm giá chút thì tốt hơn",0,1640415893,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,19059204,Huỳnh Thùy Lan,5,Cực kì hài lòng,"giao hàng nhanh y như hình, sử dụng tốt nên mua",0,1651326569,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,13374178,tran minh khoa,5,Cực kì hài lòng,Hàng giao bị móp. Mình phải sửa một lúc mới thẳng được. Hy vọng shop sẽ đóng gói cẩn thận hơn,0,1628165919,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,26928611,Nguyễn Thành,5,Cực kì hài lòng,,0,1660295496,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,11509215,Bui Anh Tuyet,4,Hài lòng,,0,1658496635,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,27152158,Huong Tra,5,Cực kì hài lòng,Phu hop voi nhu cau su dung,0,1648566097,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,15464230,Nguyen Thi Thanh Binh,5,Cực kì hài lòng,,0,1652062981,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,8835983,Vũ Minh Khôi,5,Cực kì hài lòng,,0,1650187419,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,27032082,Nguyen Hữu khuong,5,Cực kì hài lòng,ok,0,1649307832,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,11448799,Trường Giang Nguyễn,4,Hài lòng,,0,1649664425,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,1819514,Diep Kim Hang,1,Rất không hài lòng,"Giao thiếu linh kiện, đóng gói cẩu thả",0,1629426704,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,35335,Lê Diệp Trọng Toàn,5,Cực kì hài lòng,,0,1644199836,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,9775251,Cao Thắm,4,Hài lòng,,0,1641039990,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,16330822,Nguyễn  Luân,5,Cực kì hài lòng,Sp ok,1,1639026252,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,16790943,Thai Hoang Van,4,Hài lòng,,0,1639722592,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,10968028,Coke,5,Cực kì hài lòng,Sản phẩm như hình,0,1624144875,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+89178891,8168966,Phan Huu Vy Lan,4,Hài lòng,,0,1624980613,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,11377338,Duy Hòa Invest,1,Rất không hài lòng,"giao sai sản phẩm đã đành lại còn giao cho cái vỡ nắp, hộp vỡ nắp thì dùng làm gì được, lượt hàng trước shop đã lươn lẹo chèn 1 sản phẩm cũ trầy xước tùm lum đã cho qua rồi",1,1661262831,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,11673897,Hồ Liên,2,Không hài lòng,"Tiki vui lòng kiểm tra lại đơn hàng hộ nha. Mình đã nhận hàng sớm so với dự kiến (KH là ngày 30/10/2021), tuy nhiên mặt hàng này là 3 set, mỗi set 3 hộp nhưng mình chỉ nhận dc 1 set 3 hộp. Cám ơn.",1,1634885584,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,20769382,Hương Nguyễn,5,Cực kì hài lòng,"Hàng chất lượng rất đẹp, màu sắc sang trọng nhưng kích cỡ nhỏ quá so với yêu cầu của Mình. Mình muốn đổi loại 100ml, 300ml sang loại to hơn. Shop liên hệ lại giúp Mình nha. Thanks, Have a nive day",0,1646876904,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,10384522,HUONG VO,5,Cực kì hài lòng,,0,1713023607,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,13747895,Nguyễn Duy Đạt,5,Cực kì hài lòng,"hộp đẹp, nhỏ gọn",0,1702372993,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,7376644,Thai Hung,1,Rất không hài lòng,Hộp quá nhỏ. Shop lập lờ khi đăng kích thước.,0,1681887379,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,29459929,Phan Xuân Hòa,5,Cực kì hài lòng,,0,1698468140,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,22100446,Hạnh Phạm Thị Hồng,5,Cực kì hài lòng,,0,1697725986,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,7969070,Hong Phan,5,Cực kì hài lòng,,0,1687602711,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,1086680,Đinh Thị Phương Thảo,5,Cực kì hài lòng,,0,1684114219,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,20371819,Uyen Bach,5,Cực kì hài lòng,,0,1678471235,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,17647000,Lý Thị Kim Hoa ,2,Không hài lòng,"chất lg tốt nhưng size bé quá, lúc đầu mình nghĩ size to dần, mua rồi thất vọng,",0,1642289886,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,6721563,Trần Hoàng Hạnh,5,Cực kì hài lòng,"Hàng đẹp, đúng hình mẫu, đóng gói bọc rất cẩn thận, nhân viên giao hàng lịch sự và chu đáo",0,1628569180,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,18610980,HIEU NGUYEN,5,Cực kì hài lòng,,0,1665767754,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,1704561,Thanh Thảo,5,Cực kì hài lòng,,0,1650087344,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,16307512,Ngân Nga,1,Rất không hài lòng,"Tẩy chay, đăng hình cho bự. Giống như đồ chơi con nít…60k",0,1639129781,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,22430540,Tram Nguyen,5,Cực kì hài lòng,hộp nhỏ gọn size mini. thích hợp để thức ăn cho các bé.,0,1639373149,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,11270333,Trang Phạm,1,Rất không hài lòng,"Lần này mua hàng hơi thất vọng ,trên hình nhìn hộp rất to còn thực tế hộp rất nhỏ nhận hàng rồi mà kg biết để đựng gì luôn .Sét 3hộp 75000 k luôn phí vận chuyển giá rất đắt ,hộp thì bé xíu .Cho trả lại hàng dc kg shop bù tiền mua hộp khác",0,1559108663,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,21292963,Tài khoản Zalo,2,Không hài lòng,Hộp nhựa hơi nhỏ để đồ ăn vô ngăn đông ít khg tiện,0,1631885354,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,11962330,Liên Đào,5,Cực kì hài lòng,"Đã nhận được sản phẩm, sản phẩm  chất lượng ổn, nhỏ xinh",0,1628529664,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,13977703,Cao tuyen,4,Hài lòng,"Hàng tốt. Hộp bé, nên mn mua cân nhắc. Đóng gói lần này Tiki làm mình hơi ko hài lòng, hở tè le, keo dán chỉ đc 1 miếng nhỏ thôi.",0,1596727640,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,7761827,Kym Ngyen,1,Rất không hài lòng,Nhở quá nắp không tốt không dẻo,0,1633960077,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,7526945,Châu Thu Thủy,5,Hài lòng,,0,1644131060,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,17568943,Chi Nguyễn,5,Cực kì hài lòng,,0,1643544854,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,23292910,Thảo Cầm,2,Không hài lòng,"Hộp bé quá, không tiện lợi",0,1631613446,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,17952104,Haonhien Nguyen,5,Cực kì hài lòng,,0,1641019818,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,22995310,Dang Kim Loan,5,Cực kì hài lòng,Sãn phẩm đạt,0,1634648452,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,14453598,Hoa Sen Vàng,4,Hài lòng,Tot nhưng hơi nhỏ,0,1633662431,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,324758,Trần Thư,4,Hài lòng,"Hộp nhựa nhỏ bé dễ thương, mình mong đợi hộp to hơn xíu vì kích cỡ này để đồ ăn hơi khó, nhưng mà nhìn rất ưng phần chất liệu.",0,1586304943,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,25637836,nguyen phuong,5,Cực kì hài lòng,,0,1639318093,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,13650559,Phan Thi Thanh Nhu,5,Cực kì hài lòng,,0,1636869124,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,7026362,Ly Ung,5,Cực kì hài lòng,,0,1636353770,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,273947,Thanh Bình,5,Cực kì hài lòng,,0,1632837740,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,23429785,Điêu QuốcTrij,5,Cực kì hài lòng,,0,1632533107,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,7539696,Vũ Linh,5,Cực kì hài lòng,,0,1631337055,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,14132763,HONG SINH VAN,4,Hài lòng,,0,1629202595,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,19519990,Thu Hòa,5,Cực kì hài lòng,,0,1628860230,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,10021443,Nguyen Thi Ngoc Tuyet,5,Cực kì hài lòng,,0,1628071750,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,13040057,Thoa Nguyễn,4,Hài lòng,,0,1627960398,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+9793115,13915336,Levanducqgmailcom Le,5,Cực kì hài lòng,,0,1626849897,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113674490,17704819,Lê Kim Hiếu,5,Hài lòng,,0,1652020080,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,10946449,Đỗ Lợi,4,Hài lòng,Loại 5L vừa còn loại 3.5L thật sự rất nhỏ luôn. Nếu bạn nào xài nồi chiên 4L trở lên thì mua hẳn loại 5L xài. Hàng rất đẹp nhìn cao cấp chắc chắn nhưng hơi nông nên khi chiên sẽ bắn ra ngoài một ít rồi cũng phải dọn dẹp hết cả lồng chiên thôi à nhưng đỡ được một tí ;),0,1657259352,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,8078441,Nguyễn Thanh Bình,3,Bình thường,"Rửa nồi chiên 2 đáy rất cực và tốn thời gian, đặc biệt các món chảy nhiều dầu mỡ nên nhất định phải lót giấy bạc, giấy nến hoặc dùng khay silicone. Về ưu điểm, khi dùng khay silicone thì không chỉ tránh mỡ ở phần đáy lồng chiên, mà xung quanh thành lồng chiên cũng không bị dính mỡ nên rất dễ lau chùi. Nhược điểm là silicone quá dày, hơi nóng không lưu thông tốt nên chín không đều, đặc biệt các món miếng nhỏ như khoai chiên.",5,1635384153,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,11446489,Lê Thị Thu Hà,5,Cực kì hài lòng,Đỡ phải rửa mấy cái khay to đùng,0,1731284768,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,12951845,Nguyễn Tú Hoa,5,Cực kì hài lòng,"Đẹp, dễ lau rửa. Rất hài lòng.",0,1728713045,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,1213927,Thụy Khương,4,Hài lòng,"Hàng tốt, đóng gói cẩn thận, giao hàng nhanh.
+Dùng trong NCKD của mình thì thấy hơi nhỏ, loại 5L lại sợ to quá. Xài ổn, không cần rửa NCKD nhưng bù lại rửa khay silicon dính nhiều dầu mỡ cũng khá khó.",1,1632891500,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,15523838,Cao thị Liễu,2,Không hài lòng,hình chụp nhìn to nên đặt thì lại ko vừa với nồi ở nhà.mà gọi điện đến Tiki thì đượcbáo là không cho đổi nên buồn . tiki nên cho thông tin cụ thể hơn cho khách dễ chọn hoặc cho khách đổi cái khác.,0,1644324050,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,1710167,Thao Le,5,Cực kì hài lòng,"Dùng này tiện, để phải rửa nồi chiên kd, vừa in cái nckd của m. M hay dùng để nướng lạp xưởng, hoặc cần làm nóng lại thịt nướng ..., m cũng dùng nướng bánh mà cho giòn. Nên mua",3,1639014797,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,5823555,Nguyên Thụy Xuân Nhật,5,Cực kì hài lòng,,0,1738422870,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,22025939,cẩm vân,4,Hài lòng,"Sp giao đúng, vận chuyển làm hơi méo , size hơi bé chút . Hi vọng dùng tốt.",0,1675758490,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,1895800,Lê Minh Ngọc,5,Cực kì hài lòng,,0,1728290868,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,469375,Mai Tú Anh,5,Cực kì hài lòng,Khay 3.5 lit vừa với nồi chiên dòng 5l hoặc nhỏ hơn. Rất tiện lợi và đỡ mất công rửa cả nồi chiên. Nên mua nhé.,0,1673146695,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,2063039, Dragon,5,Cực kì hài lòng,Khay đẹp lắm!!!!!,3,1640339708,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,7116902,Jolie Nguyen,5,Cực kì hài lòng,"sản phẩm đúng mô tả, giao hàng đóng gói ổn áp, đã mua và dùng không hối tiếc ^^",0,1654530131,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,187455,Hải An,5,Cực kì hài lòng,,0,1714187892,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,22396025,Tu Anh,5,Cực kì hài lòng,,0,1712052155,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,7675528,Tô Khải Minh,5,Cực kì hài lòng,Tuyệt vời luôn nhé. Đỡ phải chào rửa nồi chiên. Hài lòng với sản phẩm có điều mình ko biết đo trước kích thước. Nên mua loại nhỏ về thấy bỏ vào hơi nhỏ so với nồi của mình,0,1624023691,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,7656390,Trần Thị Ngần,5,Cực kì hài lòng,"lầm đầu dùng thử ok nha, mình mua 3.5lit thấy hơi nhỏ",0,1675522377,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,631711,Phạm Hoàng Hồng Trinh,5,Cực kì hài lòng,"silicone nên xài thích lắm,có điều dính màu thực phẩm rửa khó ra,  bỏ vừa vào nồi chiên camel luôn. rất tiện, dễ vệ sinh hơn nhiều. đáng tiền, nên mua",0,1646711404,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,17262108,Thành Tâm,4,Hài lòng,,0,1702435124,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,59737,Tri Vo,5,Cực kì hài lòng,"Tiki giao hàng nhanh, đóng gói cẩn thận. Thiết kế đẹp & sử dụng tiện lợi. Để vừa y với nồi chiên không dầu nhà mình ???.",4,1623307067,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,20298877,Mai Hoài,5,Cực kì hài lòng,,0,1700898663,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,12514951,JOSEPH HAI,5,Cực kì hài lòng,"Tuyệt + tiện . Nhưng 3,5 lít là hơi bé!",0,1670562327,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,12848837,Huyen Dinh,1,Rất không hài lòng,Khay nhỏ so với nồi.  Có cho đổi hay trả hàng được ko? (Nồi của mình 8 lít),0,1654234504,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,1273463,PHƯƠNG LOAN,5,Cực kì hài lòng,Cực kì tiện. Đỡ tốn giấy bạc. Dễ chùi rửa. Mua được giá flash sale. 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩,0,1638253264,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,15196469,Le Hoang Hai,4,Hài lòng,,0,1697138106,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,15946853,Nguyễn Khanh,5,Cực kì hài lòng,Nồi chiên nhà mình 4 lít nên khay này hơi nhỏ. Tuy đúng đợt cao điểm của dịch nhưng Tiki vẫn giao hàng nhanh chóng quá ạ 🥰🥰🥰,2,1630822124,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,22524835,Nguyễn Thị Dục Thanh,5,Cực kì hài lòng,"Khay giống như hình mẫu. Cám ơn Tiki và Locknlock giao hành nhanh . Đặt hôm kia, nay đã có . Mình chưa sử dụng.",0,1636523261,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,10555191,Vu khanh,5,Cực kì hài lòng,,0,1692936180,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,7454576,Xuan Thuan Tran,5,Cực kì hài lòng,"Hàng vừa với lồng lò chiên kg dầu , nhựa dầy , sắc nét . Thử nấu thịt nướng khá giòn , lò bếp sạch sẽ hơn lót giấy nến",1,1639304985,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,8862480,Nguyễn Sỹ Hoàng,5,Cực kì hài lòng,"Sản phẩm dùng tốt, giá cả hợp lý.",0,1673097944,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,2150032,Bảo Thư Nguyễn,5,Cực kì hài lòng,"Giao hàng khá lâu tuy nhiên sản phẩm ưng í, màu sắc xinh kích cỡ giống mô tả. Đỡ phải rửa nồi nên dùng rất tiện lợi.",0,1638194776,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,7189836,Mai Truong,5,Cực kì hài lòng,"Màu sacs đẹp, không hôi nhựa, khay 3.5l nhỏ nhắn. Chưa sử dụng nên chưa đánh giá thêm",0,1636768912,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,11899246,Ph Thuy,4,Hài lòng,,0,1670589832,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,14954387,Nguyễn Thị Mỹ Anh,5,Cực kì hài lòng,Khay sử dụng tốt vừa với nồi chiên không dầu của nhà mình 👍👍👍,0,1641998514,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,1588777,Nguyễn Thị Phương Linh,5,Cực kì hài lòng,Dễ dàng sử dụng lau chùi gọn nhẹ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️??,0,1623296740,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,21462665,Tài khoản Zalo,5,Cực kì hài lòng,"màu đẹp lém nha,nhỏ hơn mình nghĩ,cho vào cái nồi chiên nhà mình lọt thỏm,chưa sdung,k bít chất lượng tnao.",0,1627272269,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,19170641,Mạnh Đức,5,Cực kì hài lòng,Sản phẩm tốt. Chất lượng cao. Đáng đống tiền,1,1650250340,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,11073828,Huynh Kim ha,5,Cực kì hài lòng,"Sản phẩm chất lượng , giá tốt. Dịch vụ giao hàng TikiNow tuyệt vời !",0,1641690458,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,7425143,Hoai My,5,Cực kì hài lòng,Khá nhỏ hơn tưởng tượng nhưng màu đẹp và khá tin tưởng sp của lock&lock,0,1639368939,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605430,21119680,Nguyen Ngoc Anh Thu,5,Cực kì hài lòng,"Xài tốt, dễ rửa sạch, tiện lợi. Đáng mua.",0,1665015130,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,162709,Ta Hoai,5,Cực kì hài lòng,Hàng tốt nhìn thấy mê mẩn cho tất cả 5 sao sẽ tiếp tục mua hàng tại shop này nữa nvgh lịch sự cho tất cả 5 sao sẽ tiếp tục mua hàng tại shop này nữa,0,1655344186,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,16584447,Đào Thị Huyền,5,Cực kì hài lòng,Thấy đẹp. Vừa nồi chiên kd 5.5 lit của mình. Bước đầu thấy ưng ý. Nhưng trông giống cao su. Nên chưa dám dùng. Sợ độc hại. Vì lần đầu mua sản phẩm silicon. Để lên mạng tìm hiểu thêm về các sản phẩm từ silicon xem sao đã.,0,1680696429,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,22882859,Trần Thị Thuỳ ,5,Cực kì hài lòng,Hàng đẹp. Sử dụng thuận tiện. Dễ vệ sinh. Shop đóng hàng cẩn thận. Chấm shop 5 sao,0,1671281928,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,671073,Tran Nguyen Yen Nhi,5,Cực kì hài lòng,"Trước mình k biết sản phẩm này nên phải liên tục rửa nồi chiên không dầu sau khi dùng. Giờ mình thấy tiện hơn rất nhiều, tuy nhiên, khuôn hơi khó rửa vì bám chặt. Vậy nên, sau mỗi lần vừa nấu xong, mình đều đổ nước nóng và tí nước rửa chén vào ngâm, ăn xong rồi rửa là đẹp.",0,1657794576,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,10946449,Đỗ Lợi,5,Cực kì hài lòng,"Khay 5L là khay dành cho nồi chiên không dầu 5L chứ bên ngoài nó khá nhỏ. Nhà mình xài hai nckd to của Philips và Locknlock đều vừa khít. Kiểu dáng khá đẹp, nhìn chắc chắn, cao cấp. Tiện dụng không phải vệ sinh lồng chiên nhiều nhưng bản thân cái khay lại rất khó vệ sinh chứ không dễ lau chùi như lồng chiên. Mọi người cân nhắc khi mua.",0,1657457618,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,10946449,Đỗ Lợi,4,Hài lòng,Loại 5L vừa còn loại 3.5L thật sự rất nhỏ luôn. Nếu bạn nào xài nồi chiên 4L trở lên thì mua hẳn loại 5L xài. Hàng rất đẹp nhìn cao cấp chắc chắn nhưng hơi nông nên khi chiên sẽ bắn ra ngoài một ít rồi cũng phải dọn dẹp hết cả lồng chiên thôi à nhưng đỡ được một tí ;),0,1657259154,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,20898043,loan loan,3,Bình thường,"theo ý mình hà bạn nào xài nồi chiên philip size xxl  thì không nên mua, vì khi nấu bằng khây silicon này sẽ phải trở mặt đồ ăn, vì nồi philip làm chín vàng đều cả 2 mặt khỏi cần trở, nhà mình xài loại nồi lớn đó",0,1645023551,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,26762863,nhung ngô,5,Cực kì hài lòng,"Khay silicon sử dụng được trong lò vi song và nồi chiên không dầu, tiện lợi!",0,1720538602,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,8951393,Bá Chiến Đặng,5,Cực kì hài lòng,"Dùng ổn,cho vào lò nướng không khói ok,mỡ chảy xuống đáy khay nên rửa ngay.Có điều ko có check đc mã vạch của Lock & lock",2,1644994291,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,10695745,Doan Canh Le,5,Cực kì hài lòng,"Giao hàng nhanh, hộp méo xẹo, nhung hàng bằng cao su nên ko sao",0,1680822573,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,17249745,Nguyễn Thị Thu Hoài,5,Cực kì hài lòng,"Sản phẩm tốt ,không có mùi khó chịu gì cả ...bền hay không thì phải đợi thời gian sử dụng đã...",0,1686287611,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,6685757,Zalo Chung,5,Cực kì hài lòng,Hàng đúng mô tả. Đóng gói cẩn thận,0,1709090484,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,13215640,phan thi kim kieu,5,Cực kì hài lòng,Nhỏ gọn Sài tốt,0,1709491106,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,25497408,Ngọc Kayoko,5,Cực kì hài lòng,,0,1729949157,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,138865,Quách Thanh Liêm,5,Cực kì hài lòng,"Khay dày dặn, chắc chắn, màu xanh xinh xỉu. Khay rất tiện dụng cho nồi chiên không dầu. Thời gian giao hàng của tiki nhanh chóng.",0,1647335065,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,693919,Đặng Hân,5,Cực kì hài lòng,"Khay to, dày dặn, nặng tay. Nồi Mishio 5.5L đựng khay còn rộng rãi. Chưa thử xài nhưng thấy khay được review rất tốt nên hi vọng sẽ dùng lâu dài, thay giấy bạc, tiết kiệm và bảo vệ môi trường",2,1632651349,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,2063039, Dragon,5,Cực kì hài lòng,"Khay silicone mềm dẻo, chưa xài thử nhưng nhìn rất đẹp & ưng ý.",0,1640339608,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,1359792,Anh Quý,5,Cực kì hài lòng,"Khay chuyên dùng cho nồi chiên không dầu, lò vi sóng của thương hiệu Lock&Lock. Khay 5L rộng rãi, bỏ vừa con gà, từ giờ đỡ tốn tiền mua giấy nến với giấy bạc",0,1640254814,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,6596668,Loan Phạm,5,Cực kì hài lòng,"Thố đẹp, mịn , sịn . Rat cần thiết để các bạn sử dụng noi chien không dau nhe. Màu sac và chất liệu phù hợp với gia tiền",0,1636877351,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,17415338,Nguyễn Trường Nhân,5,Cực kì hài lòng,"Khay đẹp bắt nhiệt rất nhanh coi chừng phỏng, vừa với nồi",0,1672469993,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,27094498,Nguyễn Thị Thanh Huyền,5,Cực kì hài lòng,,0,1709525779,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,17415338,Nguyễn Trường Nhân,5,Cực kì hài lòng,"Xài tot k bi dơ nồi, cẩn thận vì khay hấp thụ nhiệt nhanh",0,1672466915,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,7189836,Mai Truong,5,Cực kì hài lòng,"Đang sale nên mua, mua về thấy hơi nhỏ nhưng để vừa nồi 5.5l của lock&lock nha. Màu sắc đẹp, không bị hôi nhựa. Chưa sử dụng nên chưa đánh giá",1,1636768823,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,534073,Lam mai,5,Cực kì hài lòng,Tiện lợi. Dầu rớt xuống khe.Rửa đỡ cực khi nướng ít. Vừa lò chiên ko dầu Philips 9240 size XL. Giao 2h nhanh.,1,1635149202,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,21462665,Tài khoản Zalo,5,Cực kì hài lòng,"tiki luôn giao hàng nhanh và đóng gói rất đẹp,đang thử nghiệm dvu tiki now mà thực sự quá ưng,đc free quá nhìu,hihi,cảm ơn Tiki.",0,1641918561,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,15213241,Thanh Hoang,5,Cực kì hài lòng,"khay đẹp , chất lượng tốt nên mua mọi người nhé",0,1671071854,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,7850073,Bùi phương vy,5,Cực kì hài lòng,"màu hồng nhìn cưng ghê. đã nướng gà thử, ngon lành. Khay chịu nhiệt tốt. có em này đỡ phải rửa nồi chiên",0,1662207200,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,17040670,Trúc Pham,4,Hài lòng,"Rửa rất khó khăn, dầu mỡ lọt xuống mấy cái kẽ chà muốn chết luôn vậy đó",0,1672793663,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,8677363,Phi Long Ta,5,Cực kì hài lòng,,0,1703900135,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,6807,Huỳnh Thanh Nhã,5,Cực kì hài lòng,"Khay rất tiện lợi,đã nướng thử dầu mỡ ko chảy xuống giỏ chiên nên sau nướng vệ sinh nồi rất đơn giản. Dùng nồi chiên kg dầu nên mua khay này.",0,1639573737,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,16458502,Trương Hữu Thành,5,Cực kì hài lòng,"Sản phẩm như hình, shop giao hàng nhanh sản phẩm cũng tốt! Ok lần tiếp sẽ ủng hộ shop nữa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",0,1636080443,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,6745563,Nguyễn Khánh Linh,5,Cực kì hài lòng,,0,1694531806,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,18468703,Thu Vu,5,Cực kì hài lòng,,0,1694250414,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,11463349,Hồng Nguyễn,5,Cực kì hài lòng,Hàng giao nahnh. Đóng gói cẩn thận,0,1666187801,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,686577,Hùng Ngô,5,Cực kì hài lòng,,0,1691075744,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,22342692,Phạm Thu Hằng,1,Rất không hài lòng,"sản phẩm trông Ok, giao hàng nhanh. Chưa dùng nên chưa đánh giá được chất lượng",0,1657792515,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,6565890,Đoàn Thanh Lam,5,Cực kì hài lòng,"Khay đẹp, dùng cho nồi chiên rất tiện, k cần phải vệ sinh nồi",0,1648478088,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,22921086,Di Lạc,5,Cực kì hài lòng,Giao hàng nhanh đến bất ngờ. Hài lòng khi nhận đc sp. Chưa dùng thử nên chưa đánh giá được,0,1636436165,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,22146973,bui thi kim thoa,4,Hài lòng,Chưa rõ thông tin hướng dẫn sử dụng. Nhiệt độ chịu được trong lò hay nồi chiên là 220*C vậy thời gian chịu được ở nhiệt độ này là trong bao lâu ạ?,1,1624684736,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+82605269,15552456,Nguyễn Thị Minh Phúc,5,Cực kì hài lòng,"Đã nhận hàng. Hàng đẹp, dày, nặng tay. Chưa dùng thử nhưng đó tốn tiền mua giấy bạc và giấy nến là ok rồi.",0,1641881306,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113672988,7885396,Np thang,5,Cực kì hài lòng,,0,1709358579,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113672988,5410223,Trang phung van,5,Cực kì hài lòng,"Đẹp và tiện dụng, chứa được nhiều đồ vật",0,1646958167,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113672988,13650559,Phan Thi Thanh Nhu,4,Hài lòng,,0,1636869134,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113672988,5738796,Thao Vy,5,Cực kì hài lòng,,0,1636114368,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+139981576,15130037,Đinh Hồng Sơn,5,Cực kì hài lòng,"Dùng rất tốt, tiện lộ.",0,1734586959,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+275204518,15215095,Phuong Vuong,5,Cực kì hài lòng,,0,1748523774,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+275204518,13602316,Nhân Nguyễn,5,Cực kì hài lòng,Ok,0,1726483378,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58827098,647519,Nguyễn Thanh An,3,Bình thường,"Combo giới thiệu là tặng 1 phễu mà khi giao hàng không thấy tặng kèm. Sản phẩm tạm, tiền nào của nấy thôi.",0,1624017783,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58827098,25374455,Dung Kim,5,Cực kì hài lòng,Chưa sử dụng nhưng thấy cũng đẹp,0,1638099890,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58827098,18297318,Sarah Elizabeth,1,Rất không hài lòng,Because of packaging the container was stretched and did not fit with lids,0,1617433659,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58827098,2217997,Choat Coi,5,Cực kì hài lòng,,0,1626916263,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58827098,5657625,Thoa Kim Nguyen,5,Cực kì hài lòng,,0,1622725363,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58827098,1536807,MoChi Bảo Nghi,5,Cực kì hài lòng,,0,1617079095,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113656792,2167134,Le Thanh Hang,5,Cực kì hài lòng,,0,1642478176,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,30323967,Sơn sơn ,1,Rất không hài lòng,"Chối tỉ , hộ trợ rất chậm , nhận về tay hàng hỏng ,",0,1743165382,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,27959649,NGUYỄN MINH TRANG,5,Cực kì hài lòng,,0,1753466224,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,19404567,Pham Miện,5,Cực kì hài lòng,,0,1740473709,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,12690250,Phạm Phương Dung,4,Hài lòng,đĩa OK đúng chủng loại luôn.còn sử dụng có chịu nhiệt tốt hay không thì còn phải đợi chỉ là giá cao hơn chỗ khác như thôi vì mình hay mua của TiKi ý MN thông cảm vì mình ko chụp hình nên áp tạm cái hình này nhé ???,0,1625989915,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,18109428,Lê Phương,5,Cực kì hài lòng,,0,1715408104,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,8406987,Trân Quang Việt,1,Không hài lòng,"Không hài lòng. 
+Tôi đặt mua đĩa không vấu. Về mở ra thì là đĩa có vấu nên không sử dụng được.
+Trước nhờ người đặt dùm một dĩa kg vấu mà họ mua có vấu nên kg xài được. Giờ chính mình order vì sợ sai sót mà rốt cuộc vẫn kg xài được
+Kg bao nhiu tiền nên kg muốn đổi hàng vì khá phiền phức",0,1593573704,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,8121232,Lê Tuyết,5,Cực kì hài lòng,Đĩa đẹp,0,1663041825,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,18330474,Mr Thảo,5,Cực kì hài lòng,Sản phẩm y hình,0,1671279330,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,17715219,Như Ý,5,Cực kì hài lòng,,0,1677162170,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,8791119,Lê thành ngọc,5,Cực kì hài lòng,Ok,0,1660492109,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,15668179,Dương đào,5,Cực kì hài lòng,sản phẩm tuyệt vời,0,1665575633,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,14253700,Lan Chuyên,5,Cực kì hài lòng,,0,1664629610,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,8588603,Trương Nguyệt,5,sản phẩm,"mình nhận được hàng về lắp thử vào máy nhưng đĩa nhỏ hơn so với máy,  liệu có đổi size khác to hơn cho mình được k?",0,1616118630,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,6349166,Nguyen Ly Tri Nhan,5,Cực kì hài lòng,Chất lượng ổn,0,1656398858,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,16920081,Duc Thao Luong,5,Cực kì hài lòng,"giao hàng nhanh, đúng chất lượng",0,1646108349,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,8777237,Tung Bui,4,Hài lòng,,0,1658032836,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,13054065,Nguyễn Thanh Quang,4,Hài lòng,,0,1652593894,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,24809130,Hoàng Trung Dũng,5,Cực kì hài lòng,,0,1648346229,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,25922904,Nguyễn Thủy,5,Cực kì hài lòng,,0,1647012785,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,16413382,Trn Thng,5,Cực kì hài lòng,,0,1644506125,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,11096319,Đăng Nam,5,Cực kì hài lòng,"Vừa vặn, chắc chắn",0,1635262343,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,19316547,Nguyễn Thị Hường ,5,Cực kì hài lòng,,0,1638591552,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,18942390,Nguyễn Trường Giang,5,Cực kì hài lòng,,0,1637938539,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,5430855,Phuong Nguyen,5,Cực kì hài lòng,"hàng tốt, vừa lò đang xài",0,1626569423,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,14235793,Phạm Nhật Huy,5,Cực kì hài lòng,Gu,0,1635942188,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,19578673,Thảo Đỗ,1,Rất không hài lòng,Khớp đĩa không đúng với lò,0,1622514234,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,17546743,T Anh,5,Cực kì hài lòng,,0,1632666492,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,18273219,Nguyễn Vũ Huy,5,Cực kì hài lòng,,0,1630414893,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,275049,Nhật Nguyễn,5,Cực kì hài lòng,,0,1625263321,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,14507746,Thu Hương Nguyễn,5,Cực kì hài lòng,,0,1622354607,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,20235322,Thiên bảo,5,Cực kì hài lòng,Edeerrdr,0,1617868875,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,1948734,Hồng Đức Nguyễn,5,Cực kì hài lòng,,0,1619618940,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,6025952,TRAN TAY HO,5,Cực kì hài lòng,,0,1612144625,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,6599011,Nina Le,5,Cực kì hài lòng,,0,1611936467,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,6738533,Pham Dinh Phuc,5,Cực kì hài lòng,Tôi muốn đổi dĩa có vẫu được ko ? Đã đặt lộn hàng ạ,0,1587695248,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,5394689,Khanh Nguyen,5,Cực kì hài lòng,Mình muốn đổi lấy chiếc không có vấu được không,0,1584148645,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,14776482,Nguyễn Thị Kim Tuyền,4,Hài lòng,,0,1600501629,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,6204050,Lê Tấn Quý,5,Cực kì hài lòng,chất lượng như quảng cáo.,0,1589684780,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,10277626,hy thi mui,5,Cực kì hài lòng,,0,1597402923,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+47488348,5655607,Anh Van,4,Hài lòng,,0,1596861597,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,15130037,Đinh Hồng Sơn,5,Cực kì hài lòng,Quá tuyệt vời. Của Nhật có khác !,0,1734586896,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,15130037,Đinh Hồng Sơn,5,Cực kì hài lòng,Mua lần 2. Rất tốt.,0,1734764366,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,18756758,truong thaithien,5,Cực kì hài lòng,,0,1703248360,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,18043570,Nguyễn Phương Đào Nguyên,5,Cực kì hài lòng,Bát pha mì rất tốt !,0,1637650680,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,22556570,xuân trang,5,Cực kì hài lòng,,0,1639221171,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,6691591,Le Tuan Hai,5,Cực kì hài lòng,Tốt,0,1628525498,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+58544723,18008737,La thu Huong,4,Hài lòng,,0,1615336106,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+275214693,27057104,Nguyễn Hà,5,Cực kì hài lòng,,0,1738834585,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+160570204,6709630,Hảo Nguyễn,4,Hài lòng,"Hộp đẹp, nhựa đẹp.... nhưng nắp hok chắc, đựng đồ hok kín lắm",0,1647921623,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+160570204,8351147,Nguyễn Thị Tuyến,5,Cực kì hài lòng,Hop chắc chắn nhỏ xinh,0,1656042884,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+159979615,29259606,Hoàng Nguyên,5,Cực kì hài lòng,,0,1724653325,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+85435350,719271,Nguyen Thi Thu Thuy,5,Cực kì hài lòng,,0,1755939006,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+155384465,12453967,Nguyễn Thanh,4,Hài lòng,,0,1657612590,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100023665,7678466,Auco Nguyen,1,Rất không hài lòng,Minh mua 2 hộp nay dung tich 500ml mà đưa 2 hộp bé tẹo shop vui lòng đổi hoặc nhận hàng trả dùm,0,1636860407,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100023665,509062,XingXing,5,Cực kì hài lòng,cảm thấy hài lòng,0,1639448125,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100023665,101083,Đỗ Quỳnh Anh,5,Cực kì hài lòng,,0,1641721736,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100023665,7919580,Vũ Hà Anh,4,Hài lòng,,0,1639924374,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100023665,7162670, MỸ HỒNG,5,Cực kì hài lòng,,0,1639228234,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100002201,7678466,Auco Nguyen,1,Rất không hài lòng,Hộp ghi 500ml nhung thật chất chưa tới chưa tới 100ml yêu cầu Tiki thu hồi hang và trả tiền lại cho khách,0,1636803685,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100002201,22710191,Thu Phương,4,Hài lòng,sp có hơi bé so với tưởng tượng của mk,0,1634761642,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100002201,11185513,Trần Thi Thanh Thuỷ,5,Cực kì hài lòng,Rất tiếc Shop kg có hộp lớn,0,1635055949,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100002201,23832719,Diêu Diêu,5,Cực kì hài lòng,,0,1639932400,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100002201,1769020,nguyễn thị hồng bích,5,Cực kì hài lòng,,0,1635132356,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99998208,19876093,Nguyễn Thị Mỹ Lệ,5,Cực kì hài lòng,,0,1640831837,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99998208,7162670, MỸ HỒNG,5,Cực kì hài lòng,,0,1639228238,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,21153635,Liêm Thanh,5,Cực kì hài lòng,sản phẩm đings mô tả đẹp 5*,0,1673691996,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,28157731,Ai Vân,5,Cực kì hài lòng,,0,1681166427,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,5235553,Đạt Phạm,5,Cực kì hài lòng,,0,1678000858,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,5687867,Huỳnh Thiên Hoàng,3,Bình thường,Chất lượng tạm chứ không có gì nổi bật,0,1653395563,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,17933791,LÊ THÀNH KIÊN,4,Hài lòng,,0,1662559070,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,9159693,vũ duy quang,4,Hài lòng,,0,1639445215,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,19454755,Nguyen Thuan,3,Bình thường,Vành cao su phía dưới móp méo,0,1624894715,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,7305846,Cao Ngọc Thắng,5,Cực kì hài lòng,Ok,0,1625636806,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+86012897,8280337,Hà Thành Long,4,Hài lòng,,0,1619527150,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+272795962,12448539,Hong Nguyen,5,Cực kì hài lòng,,0,1733107530,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+272794122,30477973,Vũ Ngọc Tú,5,Cực kì hài lòng,,0,1756280902,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+272794122,1086296,Anh Le,5,Cực kì hài lòng,,0,1746458294,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+272794122,27867402,Hà Mi,5,Cực kì hài lòng,Hộp xịn sò so với giá tiền,0,1721747127,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+272794122,5090236,Phan Thị Dung,5,Cực kì hài lòng,"Giao hàng nhanh, hàng đúng mô tả, giá cả hợp lý, đóng gói cẩn thận",0,1702026391,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+272794122,29842616,Thu Huyền,4,Hài lòng,,0,1721955079,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100065977,19018792,Thi Chin Nguyen,5,Cực kì hài lòng,"Sản phâ,r chuẩn như mẫu; Sử dụng tiện lợi; Vệ sinh nhanh sạch; không bám bẩn.",0,1662966894,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100065977,17952104,Haonhien Nguyen,4,Hài lòng,hộp thì tốt nhưng nắp hộp bị cong khi bỏ vào nồi hấp khoảng 90 độ c,0,1642042957,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+100065977,16399063,Inyeong Cho,5,Cực kì hài lòng,,0,1641385297,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,10969910,Sy khanh,4,Hài lòng,,0,1672572998,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,1342551,NGUYEN THITAM HUONG,1,"TIKI giao không phải hộp thực phẩm, giao nhầm nắp đậy lò vi sóng","TIKI giao không phải hộp thực phẩm, giao nhầm nắp đậy lò vi sóng",0,1621510749,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,17541528,Lâm Quang Thắng,5,Cực kì hài lòng,"Mẫu mã đẹp, độ bền cao, dễ sử dụng",0,1629526288,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,1962550,PHAN TU NGOC HAN,5,Cực kì hài lòng,"Hộp dày dặn, đẹp, thích hợp dùng trong máy rửa chén",0,1634597871,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,758457, Mainguyen,5,Cực kì hài lòng,,0,1648348846,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,10841219,Võ Hoàng Như Như,5,Cực kì hài lòng,"đã nhận, đóng gói cẩn thận",0,1635666871,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,5996448,HOÀNG ANH,5,Cực kì hài lòng,,0,1637934906,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,5996448,HOÀNG ANH,5,Cực kì hài lòng,,0,1637934916,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,7731350,thanh tung,5,Cực kì hài lòng,,0,1634620617,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,15321134,Doi Yen,5,Cực kì hài lòng,rất hài lòng.,0,1627975605,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,715306,Nguyễn Hữu Anh Tú,5,Cực kì hài lòng,,0,1629549905,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,13571553,Thththdiemkieu,5,Cực kì hài lòng,,0,1627557024,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,13571553,Thththdiemkieu,5,Cực kì hài lòng,,0,1627557024,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,21992159,Nguyễn Trúc Trinh,5,Cực kì hài lòng,,0,1626751655,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,8507495,Viet Nga,5,Cực kì hài lòng,,0,1624454637,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+22985259,15565034,nguyễn thị ngọc thoại,4,Hài lòng,"Hàng dẻo tốt, mình sẽ ủng hộ",0,1588241287,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+243093447,511365,BẾ  VÂN ĐÀI,3,Bình thường,"Sản phẩm như hình nhưng nắp đậy không khít với miệng bát, ko thể đựng chất lỏng dc. Hộp đựng sản phẩm cũ, bị móp khi vận chuyển, do có tấm chống sốc bao ngoài và bên trong hộp  nên bát ko bị bể. Hàng giao nhanh",0,1695484558,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+243093447,7866869,Ngo Thi Minh Hien,5,Cực kì hài lòng,Đẹp. Giao hàng nhanh. Giá rẻ. Sứ thì dễ bị sứt nên các bạn mua cần dùng cẩn thận,0,1687956949,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+243093447,28543196,Nguyễn Minh Khôi,4,Hài lòng,,0,1709632038,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99983777,7162670, MỸ HỒNG,5,Cực kì hài lòng,,0,1639162052,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99983777,385284,Minhngoc Truongle,5,Cực kì hài lòng,"Hộp đẹp, dễ sử dụng.",0,1626156238,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+109636970,10290009,Viên An,5,Cực kì hài lòng,,0,1655285532,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+109681281,21219878,Nguyễn Quý Phong,4,Hài lòng,rất tốt,0,1644131963,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113345514,17657332,Nguyễn Thị Loan Anh,5,Cực kì hài lòng,👍👍👍👍👍,0,1646059109,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+113345514,22495792,tuyen tran,5,Cực kì hài lòng,,0,1644606932,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99949345,15881133,Nguyen Huu Huynh,5,Cực kì hài lòng,"mẫu mã rất đẹp, dễ thương chất liệu tốt",0,1748568385,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99949345,351847,Phương Lan,1,Rất không hài lòng,shop giao cũng sai sản phẩm này luôn! Mình ko hiểu sao mua cùng 1 loại 2 cái mà giao 1 cái đúng 1 cái sai ah!,0,1641893147,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99949345,18610980,HIEU NGUYEN,5,Cực kì hài lòng,,0,1640424639,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99949345,7162670, MỸ HỒNG,5,Cực kì hài lòng,,0,1639228239,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99949345,15463936,Lê Thị Bé,5,Cực kì hài lòng,,0,1638172742,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99949345,3543137,Đỗ Thị Minh Hạnh,5,Cực kì hài lòng,,0,1634115719,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99897325,7678466,Auco Nguyen,2,Không hài lòng,Đã gửi hình ảnh và đã phản ánh những Tiki kg hề phản hồi hay liền he khách hang,0,1637145401,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99897325,17704819,Lê Kim Hiếu,5,Cực kì hài lòng,,0,1652020040,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99897325,19876093,Nguyễn Thị Mỹ Lệ,5,Cực kì hài lòng,,0,1640831829,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+269966034,12806289,Yaourt NoSugar,5,Cực kì hài lòng,,0,1697520289,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8524941,Nguyễn Diệu Ái,5,Cực kì hài lòng,,0,1733382681,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8230244,Nguyễn Thị Minh Thơ,5,Tạm,"Sản phẩm có 2 ghi chú trái ngược. Người bán nói an toàn với lò vi sóng. Người sản xuất nói không sử dụng trong lò vi sóng. Còn thực nghiệm, tôi chưa dám bỏ vào lò vi sóng thử. Nên bạn nào đã sử dụng đánh giá thực tế nha.",3,1616203699,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,20752600,Mỹ Hằng,1,Rất không hài lòng,"Nhận hành mà mở ra bể nát 2 hộp rồi, còn 1 hộp lớn thì nứt, thật sự ko hài lòng và bán hàng ko có tâm, bik bể vậy mà vẫn đóng bỏ vào mà để quay vào trong cùng nữa ??",0,1622793238,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,14535913,Phan Thi Diep,2,Không hài lòng,Nhận hàng bị vỡ tùm lum. nắp lỏng đóng ko  chat được  . Vỡ hết 4 cái lớn để bên ngoài. Nên giảm số lượng và tăng chất lượng! Đóng gói cẩu thả nên vỡ lung tung!,0,1587546465,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,6058084,Hang Nguyen,1,Rất không hài lòng,"Nhựa mỏng dính chứ không phải nhựa cao cấp như quảng cáo. 1 sao vì đúng giá là 68k so với chất lượng, shop kê giá cao lên rồi bớt xuống chứ không phải khuyến mãi gì nhé.",0,1626411486,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,26281822,Anh Dũng,5,Cực kì hài lòng,,0,1689740989,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8957671,Phạm Thị Mỹ Dung,2,Hộp Đựng Thực Phẩm,"Lần này thât sự không hài lòng về tiki, khi đặt hàng mình đã ghi là địa chỉ công ty vậy mà giao hàng không báo trước còn giao vào lúc 12h40 trong giờ trưa thật sự rất khó chịu.
+Thứ hai, hàng không như hình và có mấy hộp nắp đậy không kín được. Thất vọng",0,1566974289,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,7713044,Trang Lê,2,Không hài lòng,"Đồng ý là tiền nào của đó nhưng thà số lượng ít xuống mà chất lượng cao hơn chút thì ok rồi. Hộp nhựa mỏng, nắp đậy được ko khó như các bạn đã cm. Nhưng khi mở ra thì có hai hộp đã bị bể nhẹ. Tiki thì ko bao giờ làm mình thất vọng về khâu đóng gói sp.",6,1577783246,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,52336,HUYNH THANH,3,Chất lượng trung bình,"Mình mua hộp để đựng dụng cụ làm việc nên không quan tâm lắm về chất lượng nhựa nhưng nếu đựng đồ ăn sẽ bị hôi mùi nhựa lắm. Nắp của hộp nhỏ đóng hơi khó, phải bóp mạnh để vô khớp. 
+Hộp với nhiều size khác nhau nên đựng đc nhiều đồ nhỏ linh tinh, so với giá thành thì chất lượng xài đc.",9,1564197406,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8008749,Bùi Ngọc Ngân,5,Cực kì hài lòng,"Rẻ, cũng ok",0,1669566059,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,11981317,Nguyễn Luyến,5,Cực kì hài lòng,"Hàng ko tốt lắm, có vài nắp đậy ko kín",0,1657771889,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,18306130,Phương Thái,5,Cực kì hài lòng,"hộp rất đep và chất lượng, đóng gói an toàn rất hài lòng",0,1621475662,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,13146650,Huy Quốc,4,Hài lòng,,0,1666003153,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8248351,HUYNH THI MY NGOC,5,Cực kì hài lòng,Tam duoc,0,1662184154,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,17039633,Mai Thị Thùy,3,Bình thường,hàng ok. đóng nắp hơi vất vả xíu. nói chung là dc,0,1641857234,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,17607082,Phạm Thị Huệ,4,Hài lòng,Nắp nhiều khi rất khó. Nói chung chất lương tương đương với giá tiền,0,1632887410,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8736828,Thuy Nguyen,3,Bình thường,Đóng gói rất cẩn thận k hiểu s vẫn có 2 cái hộp bị bể,0,1623316498,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,22455844,nguyễn thị diễm kiều,2,Không hài lòng,"Cũng tương đối nhưng nắp đậy ko kín ,hộp lớn khó đậy",0,1635155227,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8345701,Hoàng Hải Dương,1,Rất không hài lòng,"Hộp với nắp không khớp với nhau, nên không đóng kín đc",0,1634232043,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,11206615,Trần Dũng,5,Cực kì hài lòng,tốt,0,1654827409,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,26311150,Trinh Nam,3,Bình thường,hộp nhỏ quá... hơi k vừa lòng,0,1644190325,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8405419,Kaylee Trần,5,Cực kì hài lòng,Hộp nhiều size nên khá tiện. Tuy nhiên một số nắp đậy bị vênh không đóng lại đc.,0,1621005921,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,11934609,Danh Tuấn Hữu,3,Bình thường,"có vài nắp bị bể, nhựa mỏng",0,1640706784,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,11367215,Công Minh Nguyễn,5,Cực kì hài lòng,"Hài lòng với sản phầm.
+Chất lượng nhựa khá ổn, hàng mới, nắp ko bị bể như các review đọc trước đó.
+Tiki gói hàng cẩn thận.",0,1586092003,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,21791852,trần thị nhi,2,Không hài lòng,"hộp khi vận chuyển bị nứt , bể,",0,1624275683,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,23465245,Thái Hoà,1,Rất không hài lòng,"Nắp không khít, chất liệu giảm",0,1639240370,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,13872169,Mai bùi,5,Cực kì hài lòng,sp nhu hình tiện lợi dễ sd .mình quên chụp lại sp,0,1630613909,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,7676162,Nguyễn Thị Thanh Thuỷ,1,Rất không hài lòng,"nhựa dỡ, nấp họp không đậy được, yếu, chất lượng kém!",0,1625648181,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,17809562,Giang Anh Nguyễn,2,Không hài lòng,"Có một hộp vỡ , như cố kèm thêm vào chứ không phải do vận chuyển",0,1621745330,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,22488166,Nguyen Ngoc Huy,4,Hài lòng,"Hàng ok, giá rẻ, giao đúng ngày nhưng đóng gói hơi xấu",0,1626481513,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,14640252,Nguyễn thị thu trang,3,Bình thường,"nắp hộp ọp ẹp, có hộp ko đóng đc khít, vênh nhau",0,1627199552,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,12954543,Sóc Nâu,1,Rất không hài lòng,Rất tệ không hài lòng về sản phẩm,0,1617185457,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,10909388,Nguyễn Mạnh Tuấn,2,Không hài lòng,"Nắp đóng đau cả tay ko vào, lại còn hay bị bung góc",0,1625342998,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,11095599,Dao Ky Nguyen,2,Không hài lòng,"tạm được,  nấp đậy không khít. nói chung xài cũng được",0,1622356769,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,12404362,Đào Thị Mỹ Toàn,4,Hài lòng,Hộp mỏng quá,0,1639741473,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,10038004,LE THI THU HUONG,5,Cực kì hài lòng,Hơi mỏng nhưng tạm ổn,0,1635861306,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,7761827,Kym Ngyen,1,Rất không hài lòng,Ko tốt bị méo mó lun tung,0,1633960035,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,8556650,Trần Thị Diệu Kiều,5,Cực kì hài lòng,Hộp móp mỏng,0,1638102942,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,10667518,Phan Mận,2,Không hài lòng,"1. anh giao hàng tiki rất nhiệt tình.
+2. đóng gửi kỹ càng
+3. hộp về sử dụng thì nắp bị hở không khít, đẩy nắp lại rất khó.
+4. nắp mỏng quá.",0,1585032591,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+19841697,19792622,Hoàng Dương,5,Cực kì hài lòng,Nắp hộp hơi mềm. Chất lượng hộp thì ok,0,1626310934,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+166031982,13221126,Phương Chi Trần,5,Cực kì hài lòng,guii,0,1657206641,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99095613,778796,Lan Huong,5,Cực kì hài lòng,hàng xịnnn,0,1631172586,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99119116,2035507,Trương Thị Hồng Liên,4,Hài lòng,"Cảm quan ok, chưa dùng nên chưa đánh giá được về chất lượng",0,1758089129,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99119116,21311879,kim oanh,4,Hài lòng,Mình muốn mầu sẫm thì lại nhận mầu trắng 😩😩,0,1699534438,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99119116,8351147,Nguyễn Thị Tuyến,5,Cực kì hài lòng,Hộp dễ vệ sinh,0,1674900653,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99119116,7695098,Thu’y Nguyễn,5,Cực kì hài lòng,"1.1l nhìn thì nhỏ nhưng đúng là đc hơn 1 lít, dày dặn, đẹp",0,1635322918,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99119116,22551223,duyen le,5,Cực kì hài lòng,OK,0,1643264899,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99119116,17175639,Van Thang Huynh,5,Cực kì hài lòng,,0,1632990906,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp
+99072288,6709630,Hảo Nguyễn,4,Hài lòng,"Hộp đẹp, nhựa đẹp.... nhưng nắp hok kín lắm... hơi buồn",0,1647921658,nắp đậy và phụ kiện dùng cho lò vi sóng,Dụng cụ nhà bếp

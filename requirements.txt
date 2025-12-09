@@ -1,0 +1,40 @@
+# Core DS stack
+pandas>=2.2.2
+numpy>=1.26.4
+scipy>=1.13.1
+scikit-learn>=1.4.2
+tqdm>=4.66.5
+python-dotenv>=1.0.1
+
+# Viz & Notebook
+matplotlib>=3.9.0
+seaborn>=0.13.2
+notebook>=7.2.0
+ipywidgets>=8.1.3
+gradio>=4.44.1
+
+# Recommenders
+implicit>=0.7.2         # CF (ALS/implicit feedback) – cần scipy, OpenMP
+lightfm>=1.17           # CF hybrid (optional, useful)
+recbole>=1.2.0          # Sequential/Transformer recommenders (SASRec, BERT4Rec) – cần PyTorch
+
+# NLP / Semantic LLM
+transformers==4.41.2
+sentence-transformers==2.7.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+langchain-chroma>=0.1.0
+chromadb>=0.5.3
+
+# ANN / Vector search
+faiss-cpu>=1.8.0.post1  # Linux/Mac tốt; nếu Windows lỗi xem ghi chú bên dưới
+annoy>=1.17.3           # fallback ANN (nhẹ, cross-platform)
+
+# Data sources / misc
+kagglehub>=0.2.5
+requests>=2.32.3
+beautifulsoup4>=4.12.3
+lxml>=5.3.0
+
+scikit-surprise

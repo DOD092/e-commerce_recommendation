@@ -1,0 +1,363 @@
+﻿product_id,customer_id,customer_name,rating,title,content,thank_count,created_at,kw,group
+163715184,1369615,Ngô Lê Quốc Anh,5,Cực kì hài lòng,,0,1682664765,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+107278155,19206064,Nguyễn thị thu hiền,4,Hài lòng,,0,1635163816,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+273604373,12161110,Lam Tu Uyen,5,Cực kì hài lòng,,0,1711110150,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270821983,17620477,Thảo Lý Ngô,4,Hài lòng,"Hàng như hình, gói kỹ giao nhanh, chất lượng thì cũng ok",0,1720682864,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270821983,22915432,Bùi Minh Ân,2,Không hài lòng,đũa inox mà mới nhận đã thấy cũ gỉ sét rồi.,0,1712379666,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270821983,7583950,Thu Nguyễn,5,Cực kì hài lòng,Xinh. Nhưng đũa hơi khó gắp thức ăn xíu vì phần đầu cầm bằng gỗ hơi to so với phần inox.,0,1702348478,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270821983,27898941,Thanh Nam,5,Cực kì hài lòng,"Rất ok. Hàng giống như hình shop đăng, rất dễ thương và tiện lợi. Sẽ giới thiệu cho đồng nghiệp, cho shop 5 sao",0,1691470177,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270821983,14061266,Ho thi le thu,5,Cực kì hài lòng,,0,1734614496,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270821983,7819104,Phạm Dương Minh Quân,5,Cực kì hài lòng,,0,1703206483,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+273978815,543514,Phạm  Văn Thiện,5,Cực kì hài lòng,,0,1756438720,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+273978815,28060104,Nguyễn Max,5,Cực kì hài lòng,,0,1753236704,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+273978815,7368273,Nguyen Quoc Manh,5,Cực kì hài lòng,,0,1747384805,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274801567,27483464,Thiên Hoàng,5,Cực kì hài lòng,"Đẹp , tiện dụng , nhỏ gọn 
+Giao nhanh , gói kĩ",0,1736582233,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274801567,30176297,Hải Nam,5,Cực kì hài lòng,"Đẹp , đóng gói cẩn thận , giao nhanh",0,1736866275,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274801567,8075825,Phát Trọng Đỗ,5,Cực kì hài lòng,,0,1719979977,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,30420396,Kim Thanh,5,Cực kì hài lòng,"Cầm nặng tay, chắc chắn, đầu cần vuông nên dũa ko sợ bị lăn nhất là đũa kim loại, ko có cạnh nhọn, rất thích hợp cho dân văn phòng
+
+Mỗi muỗng và đũa đều dc bọc kĩ, hộp ko bị bể",0,1751356836,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,30420396,Kim Thanh,5,Cực kì hài lòng,"Muỗng đũa dc bọc kín, gọn, hộp ko bị hư, đẹp, muỗng đũa chắc chắn, thích hợp cho dân văn phòng",0,1751356994,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,18579273,Phan Vũ,5,Cực kì hài lòng,,0,1744259010,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,29278185,Hong Nhu Nguyen Thi,5,Cực kì hài lòng,,0,1716537385,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,12449288,Hiền,5,Cực kì hài lòng,"Ok nha, có tặng 1 cái cột tóc dễ thương, xinh xinh, mình rất thích! Tks.",0,1662549215,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,12161110,Lam Tu Uyen,5,Cực kì hài lòng,,0,1688951726,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+194788342,18254310,Nguyen Thi Xuan Mai,5,Cực kì hài lòng,Good,0,1669639948,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+90116881,26896805,Hằng Nguyễn,5,Cực kì hài lòng,"Sp rất đẹp, rất ưng ý, sp cực kỳ đẹp luôn, cả nhà yên tâm mua nhé, sẽ ủng hộ shop lâu dài 👍",0,1648874975,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+71095775,12733819,Lê Trịnh Ngân Giang,5,Cực kì hài lòng,,0,1746342805,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+71201811,13880857,Thuy Pham,5,Cực kì hài lòng,,0,1612619547,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+71201811,9799849,HOÀNG PHI THẠCH,5,Cực kì hài lòng,,0,1609936842,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,29378608,Phạm Bé,5,Cực kì hài lòng,"Hộp rất đẹp mình rất hài lòng, hàng chất lượng inox dày dặn, nên mua ạ",0,1693405453,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,27898592,Van De,5,Cực kì hài lòng,"Chất lượng ok, đẹp nha",0,1691398250,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,27898941,Thanh Nam,5,Cực kì hài lòng,"Hàng đẹp, giao hàng quá nhanh vừa đặt xong tý xíu shipper gọi giao hàng rồi. Hộp sang làm quà tặng rất hợp lý. Shop tv nhiệt tình",0,1691469712,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,26316193,Trang Lê,5,Cực kì hài lòng,giao nhanh xĩu chất lượng lắm nha nhìn bao sang trọng,0,1705562777,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,18749740,Trần Viên,4,Hài lòng,Chất lượng ok nhưng nhỏ và trơn,0,1704975883,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,10329383,Yến Trần,5,Cực kì hài lòng,One,0,1713583882,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270508020,26656838,Pham Dinh Ty,5,Cực kì hài lòng,"Hàng chất lượng, quá ok",0,1690873133,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+90116872,11794431,Thanh Nhu,5,Cực kì hài lòng,Như hình quảng cáo good!,0,1663566480,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+90116872,12964810,Ngọc Lan,4,Hài lòng,,0,1624781744,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+107276137,29782882,Nguyễn Thế Vỹ,5,Cực kì hài lòng,,0,1718016064,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+107276137,18675780,Vũ Thị Thu Hà,5,Cực kì hài lòng,,0,1631719231,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+114773413,11665227,Hanhphuong Nguyen,5,Cực kì hài lòng,,0,1743697092,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+114773413,1017635,Thao Nguyen,5,Cực kì hài lòng,,0,1722606422,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+114773413,20268855,Huong Bui,5,Cực kì hài lòng,Ok,0,1647403118,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+203443722,10504264,Phia Huynh,5,Cực kì hài lòng,,0,1746262785,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+68574120,1643055,Kien Nguyen Ngoc,5,Cực kì hài lòng,,0,1674806191,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+68574120,1729861,DO HOA,5,Cực kì hài lòng,,0,1619160659,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+68574120,1729861,DO HOA,5,Cực kì hài lòng,,0,1618977212,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+23381675,7818021,Np,5,Cực kì hài lòng,Tốt tốt lắm!!!!!!!!!!!!)₫,1,1614665595,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+23381675,8141508,Nguyễn Đạt,5,Cực kì hài lòng,,1,1598702382,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+23381675,1004490,Bui Duy Loc,5,Cực kì hài lòng,"nhu hinh. 
+tot. chat luong cao cap.",1,1583052273,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,1952836,Lê Quốc Nam,5,Cực kì hài lòng,Shop giao hàng nhanh và giao đúng sản phẩm như miêu tả. Sản phẩm chất lượng tốt. Tôi rất ưng ý.,0,1732705190,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,24021114,Lê Hiệp,5,Cực kì hài lòng,"Sản phẩm được shop bao bọc cẩn thận, nguyên vẹn, cảm nhận rất tốt, hộp đựng bằng nhựa thiết kế thông minh, thìa và đũa đẹp, dùng thử tốt phù hợp. Rất hài lòng.",0,1670896720,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,10846623,Tích đẹp trai ,3,Bình thường,hộp nhựa to đựng thìa đũa ok có chống sốc bên ngoài. mình không đọc kĩ mua nhầm mỗi cái hộp đem về làm đồ chơi cho con tạm vậy hic,0,1628996489,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,29852130,Tan Nguyen,5,Cực kì hài lòng,Hài lòng với sản phẩm giá hợp lý,0,1711180029,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,6207812,Nam Việt,5,Cực kì hài lòng,"Hộp bằng nhựa cứng cáp, đóng gói đẹp.
+Phù hợp với người đi làm . Giá ok phù hợp 27 nghìn/1 hộp.sẽ ủng hộ shop",0,1613575838,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,925202,Nghi Thai,5,Cực kì hài lòng,"Mới nhận đc hàng tức thì, đẹp. Qua thời gian sẽ thế nào thì chưa biết. Nhưng mới nhận mở ra xem thấy chất lượng, cầm nặng tay.",0,1603432221,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,1074382,Nguyễn Phúc Nhân,5,Cực kì hài lòng,,0,1709618198,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,28829573,nem hoang,2,Không hài lòng,"Sản phẩm không như quảng cáo, chất liệu đũa inox không phải inox304 .",0,1681365973,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,7480570,Bui Xuan Sang,1,Rất không hài lòng,Đăng bán tựa đề là  thìa muỗng và hộp nhưng thật ra là cái hộp đễ bị nhầm có mục đích ko có rõ ràng,0,1633962541,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,2407511,Hà Bình Xuyên,5,Cực kì hài lòng,"Rất hài lòng vì đúng với nhu cầu, mình từng xem qua nhiều loại thì đều kích thước quá nhỏ, không vừa với đũa ăn gia đình, chỉ có loại này đủ kích thước.",0,1636884957,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,24116122,Nguyễn Chí Mạnh,5,Cực kì hài lòng,"Hộp bằng nhựa. Chất lượng trung bình, được cái túi khá tiện và xinh.",0,1638010143,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,6596498,Nguyễn Thị Ngọc Mai,5,Cực kì hài lòng,,0,1670761717,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,9941590,Nguyễn Lê Ngọc Hân,5,Cực kì hài lòng,"giao hàng nhanh, chất lượng hợp lý với giá tiền",0,1649343564,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,8951048,Minh Lê,5,rất hài lòng,"Không ngờ M nhận bộ muỗng đũa rất thích luôn, quá chất lượng, giá tốt, sẽ ủng hộ shop! Hình như đũa mạ bằng chất liệu inox 304 nên rất nhẹ luôn",0,1603976604,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,886654,Tra Dung,5,Cực kì hài lòng,"Hàng như hình minh họa. Cầm thấy chắc chắn. Bao bọc cẩn thận, có đánh dấu lưu ý ""Hàng dễ vỡ"" ở ngoài.",0,1620748340,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,14372046,Cua Bien,5,Ủng hộ hàng Việt Nam chất lượng cao của Dandihome.,"Mình vừa nhận được một bộ sản phẩm của Dandihome gồm hộp đựng, đũa và muỗng Inox 304. Sản phẩm cực kỳ đẹp mắt, chất lượng cực xịn. Ủng hộ hàng Việt Nam chất lượng cao.",0,1587004458,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,17620477,Thảo Lý Ngô,4,Hài lòng,"Gửi màu hồng mất rồi, đúng màu mình thích nhưng mình mua tặng bạn, hic, hơn tuần mới tới",0,1622800861,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,7768506,Dinh Huy Truong Nguyen,5,Cực kì hài lòng,sản phẩm ok . bỏ đũa với luồn vào trong hộp hơi khó bỏ,0,1619836756,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,8243260,Lý Quang Tùng,5,Cực kì hài lòng,,0,1670990622,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,7670313,Ngô Minh Đức,5,Cực kì hài lòng,,0,1670467738,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,502200,Vũ Trọng Tấn,5,Cực kì hài lòng,,0,1669900539,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,13199222,Huong Vuong,5,Cực kì hài lòng,"Giao hàng nhanh, hàng đẹp, chắc chắn, inox sáng bóng,mình rất hài lòng về sp. nếu đc chọn màu nữa thì sẽ càng thích hơn. sẽ ủng hộ shop tiếp nhé",0,1596695136,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,19929475,Phạm Thế Toản,4,Hài lòng,,0,1665659319,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,813203,Anh Thi,5,Cực kì hài lòng,"Hàng chất lượng, cầm nặng tay, sáng bóng, tiện dụng mang theo để ăn cơm trưa văn phòng. Mức giá so với sản phẩm rẻ.",0,1616140775,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,9113219,Minh Chánh Bùi,4,Hài lòng,"Bộ này hơi to để mang đi, có lẽ để luôn trên cty",0,1627804276,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,69039,Tran Tuyet Thanh,5,Cực kì hài lòng,"hàng xịn, chất lượng, giao nhanh",0,1634528718,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,1062857,Huy Đỗ,5,Cực kì hài lòng,"Chất lượng hoàn thiện tốt, sạch sẽ nếu có thêm lớp hút ẩm nữa thì tuyệt",0,1613786045,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,14718919,ngô ngọc ngân,5,Cực kì hài lòng,"inox sáng, sp đẹp. Cá nhân mình thấy phần tay cầm hơi ngắn nhưng nhìn chung các sp của DandiHome đều đẹp và chất lượng.",0,1610350437,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,11920851,Minh Khiet,3,Bình thường,"Nắp hộp lỏng chỏng, đóng vào k chặt với hộp",0,1621134971,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,19917202,Ngọc Liên,5,Cực kì hài lòng,"đóng gói kỹ càng, chắn chắn, rất chi là ưng ý nà, sẽ ủng hộ tiếp",0,1611049901,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,21069592,Quynh Hoa,4,Hài lòng,Đẹp,0,1650201092,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,8110399,Ngô Thị Thanh Quyên,5,Cực kì hài lòng,"hàng đẹp, giá hợp lý, rất đáng để mua",0,1634531149,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,11657374,Võ hoài yến nhi,5,Cực kì hài lòng,Thìa đẹp,0,1646204284,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,5573759,lê ngọc kim,5,Cực kì hài lòng,Hàng đẹp chắc chắn nặng tay,0,1635823466,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,13158878,Lâm Tth,5,Cực kì hài lòng,,0,1646981612,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,784817,Nguyen Thi Thanh Mai,5,Cực kì hài lòng,,0,1646700545,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,15514738,Nguyen loan,5,Cực kì hài lòng,sản phẩm chắc chắn đẹp. màu sắc trang nhã .sẽ tiếp tục ủng hộ shop trong thời gian tới.,0,1595324461,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,5987247,Mai Đình Dinh,5,Cực kì hài lòng,Hàng tốt,0,1642053023,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,11980638,Nhỏ Ơi,5,Cực kì hài lòng,"Giao hàng nhanh chóng.. Hàng đẹp, vừa với túi tiền",0,1625220462,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52006431,17557814,Dũng Nguyễn,5,Cực kì hài lòng,Giao hàng nhanh,0,1639715530,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+275199869,622371,Vũ Lê Khôi Nguyên,4,Hài lòng,,0,1723612307,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+273082829,8754861,Đoàn Tiến Trung,5,Cực kì hài lòng,,0,1728068639,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+273082829,1260154,Johnny Huỳnh,5,Cực kì hài lòng,,0,1722099940,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,14183071,Phạm Văn Huỳ,5,Cực kì hài lòng,Thật tuyệt vời! Nếu chỉ nhìn trên ảnh của wed thì không biết được nó đẹp và tốt cỡ nào! Tôi đã hiểu vì sao giá thành của nó cao hơn loại khác vì nó tốt và nó xứng đáng với điều đó!,0,1722153928,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,10367025,Nguyễn Thị Hảo ,5,Cực kì hài lòng,"sản phẩm chất lượng, nĩa cầm tay chắc chắn, inox 304 sáng đẹp, anh nhân viên giao hàng rất thân thiện. Chất lượng 5 sao cho sp và nhà bán hàng. Cảm ơn Tiki nhiều nhé!",0,1635849227,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,14183071,Phạm Văn Huỳ,5,Cực kì hài lòng,,0,1748480523,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,47206,Trần Minh Khôi,5,Cực kì hài lòng,"Sản phầm tốt, đẹp, cầm chắc tay",0,1724275542,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,8134050,Lê Đại,5,Cực kì hài lòng,"Hiếm khi đánh giá 5⭐️ mà hôm nay cho bộ đũa iNox này. Rất muốn mua đũa inox nhưng thử nhiều nơi đều không ưng vì không tạo nhám chống chơn. Dù lúc mua cũng lăn tăn về quảng cáo vật liệu SUS304_ Nhưng *** bằng đầu chìa khoá Honda (bắt từ) thấy ổn. 
+
+Đánh giá 5⭐️
+P/S: Cắt tạm ảnh từ Video lúc mở hộp.",0,1608810325,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,15130037,Đinh Hồng Sơn,4,Hài lòng,Dùng được,0,1727614033,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,19433215,Pham Bich Dao,5,Cực kì hài lòng,Okkkk,0,1729970763,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,27397648,Nguyen Mai,5,Cực kì hài lòng,,0,1728291632,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,6120228,vo tan,5,Cực kì hài lòng,"Một sản phẩm Made in Việt Nam có chất lượng rất tốt, có cả kết quả kiểm nghiệm vật liệu nên sử dụng rất yên tâm. Thiết kế nhìn khá sang trọng, logo in sắc nét. Nhà sản xuất chắc hẳn đã rất thấu hiểu người tiêu dùng. 
+Sản phẩm được đóng gói cẩn thận và giao hàng nhanh chóng!",0,1587920695,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,22645553,Nhất Thanh,5,Cực kì hài lòng,"Rất đẹp, dày dặn chắc chắn, đóng gói cẩn thận. Rất hài lòng về sp. Shiper nhiệt tình chu đáo.",0,1653368145,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,317645,Phạm Anh,5,Cực kì hài lòng,,0,1718782830,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,317645,Phạm Anh,5,Cực kì hài lòng,,0,1718782842,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,10448126,Hà Hương,5,Cực kì hài lòng,"Nĩa có độ hoàn thiện rất tốt, đẹp, tinh tế. Mọi ng yên tâm mua nhé.",0,1630469319,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,19050280,Thùy Dung Nguyễn,5,Cực kì hài lòng,"Nếu ai đó đọc được review này thì tôi khuyên bạn nên mua luôn, đừng chần chừ nữa, mình đã trải nghiệm và rất hài lòng với các sản phẩm của Dandihome",0,1643319507,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,284552,Nghia Le,5,Cực kì hài lòng,,0,1704355072,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,26570150,nguyễn hải đăng,5,Cực kì hài lòng,,0,1702876305,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,676101,Lê Đức Tâm,5,Nĩa ăn trái cây và ốc hải sản,"Sản phẩm sáng và chắc đúng chuẩn inox 304. Thiết kế của DandiHome tinh xảo, cầm nắm rất vừa tay. Đóng gói sản phẩm cẩn thận. Nĩa phù hợp để ăn trái cây và sử dụng tốt luôn cả với một số loại ốc hải sản, đúng cái mình đang cần.",1,1590739761,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,12017371,Nguyễn Thị Uyên Thi,5,Cực kì hài lòng,"tưởng nĩa nhỏ xíu, ai ngờ nhận được nĩa to dày chắc chắn, cầm nĩa thích mê, inox 304 là yên tâm. xài hàng chợ rồi (inox xài xuống màu, bị teng...) mới thấy hàng của Dandihome đẹp mà yên tâm cho sức khỏe",0,1605251675,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,708930,Nguyen Duy Thanh,5,Cực kì hài lòng,Sản phẩm tuyệt vời inox sáng bóng,0,1680830526,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,676299,Lê Thị Thùy Dương,5,Cực kì hài lòng,"Dày dặn, cầm nặng tay, inox xịn sáng choang. mình đã mua 2 bộ thìa rất ưng rồi nên xuống tay thêm bộ dĩa (nĩa) này nữa. Tuy cán dài quá hơi bất tiện chút xíu nhưng vẫn cho 5*",0,1620839849,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,14661153,Sơn Phạm,5,Cực kì hài lòng,"Sau khi xem đánh giá của mọi người về shop bán mình cũng mua và nhận hàng mình thấy hàng chất lượng và đẹp sáng , giá thành hợp lý , mình sẽ mua và ủng hộ tiếp cho shop nữa",1,1603447389,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,1109878,Mai Xuân Thanh,5,Cực kì hài lòng,,0,1685429680,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,1109878,Mai Xuân Thanh,5,Cực kì hài lòng,,0,1685164712,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,6844844,Nguyen Duy Hung,5,Cực kì hài lòng,"Chất liệu cứng cáp, bề mặt sáng bóng rất sang trọng.",0,1663376412,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,9948974,Phan Thành Tâm ,5,Cực kì hài lòng,,0,1612102811,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,11662294,Vu Nguyen Thanh,5,Cực kì hài lòng,,0,1681118008,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,16200560,Jang My,5,Cực kì hài lòng,sp rất đẹp,0,1647239973,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,5526444,Nguyễn Đức Hoàng Long,5,Cực kì hài lòng,"Sang, xịn, mịn",0,1671889701,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,6106142,Nguyen Quoc Duy,5,Cực kì hài lòng,"Hàng giao nhanh, giá thành hợp lý, đóng gói cẩn thận",0,1640964951,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,6315113,Pham Huu Viet,5,Cực kì hài lòng,"nĩa hoàn thiện chưa được 5 sao, thông tin mô tả đúng.",0,1652775451,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,362320,Vương Nguyễn Hương Thủy,5,Cực kì hài lòng,,0,1673930243,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,19652333,Bửu Thị Ánh Loan ,5,Cực kì hài lòng,"Nĩa đẹp lắm, mình đã đặt mua thêm lần thứ 4",0,1654767286,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,5196399,Tran Thi Ngoc Thuy,5,Cực kì hài lòng,"Inox sáng bóng, chắc chắn, nhìn rất sang, dùng một thời gian rồi không thấy bị xước như các loại muỗng nĩa khác. Rất đáng đầu tư :D",1,1605345332,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,14004204,Thanh vu Tran,5,Hài lòng,"Hàng đẹp,giao hàng nhanh,chất lượng như quảng cáo",0,1652341819,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,7819158,Lê Anh Tuấn,5,Cực kì hài lòng,dĩa ăn đúng hàng inox 304 như miêu tả. Hàng đẹp và sang trọng. Giao hàng nhanh. Mọi người nên mua.,1,1605177273,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,6315113,Pham Huu Viet,5,Cực kì hài lòng,"nĩa hoàn thiện tốt 5 sao, thông tin mô tả đúng.",0,1652775518,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,17296126,Trần Nina,5,Cực kì hài lòng,,0,1671109709,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,11721115,Tran Thanh Tung,5,Cực kì hài lòng,Sản phẩm đúng nhu hình đăng bán,0,1656774345,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,7878240,HOANG TA,5,Cực kì hài lòng,"Sản phẩm đẹp, chắc chắn sang trọng",0,1640314927,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+52049950,15153003,HOÀNG PHƯƠNG THẢO,5,Cực kì hài lòng,,0,1667341192,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+155549378,22093558,Ngô Hòa,4,Hài lòng,,0,1743341142,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+155549378,29782882,Nguyễn Thế Vỹ,5,Cực kì hài lòng,,0,1741227584,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+155549378,12523751,Nguyễn Thị Trung,4,Hài lòng,,0,1740736288,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+155549378,12099028,phạm triều,5,Cực kì hài lòng,"đẹp, rất đẹp",0,1723881573,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+155549378,20895471,Trần Lệ Thuý,5,Cực kì hài lòng,,0,1671204883,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+155549378,7970108,nguyễn thị ngọc,5,Cực kì hài lòng,Ok,0,1644384651,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+271072683,29409284,LÊ VĂN ĐÁN,1,Rất không hài lòng,"Đũa mỏng manh, hoàn thiện kém, mối hàn còn cháy đen - tẩy chưa hết, hoa văn mờ nhạt. Rất tệ.",0,1713157558,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+271072683,14205236,Van Minh,1,Rất không hài lòng,"Mua 20 đôi đũa mà giao hàng 10 đôi đuôi tròn, 10 đôi đuôi vuông. Rõ chán.",0,1724640231,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+271072683,16454949,Thanh An,1,Rất không hài lòng,Sản phẩm ko guống hình ảnh.,0,1740231611,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+271072683,29390292,Mai Quynh,5,Cực kì hài lòng,,0,1741396076,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+271072683,18756758,truong thaithien,5,Cực kì hài lòng,,0,1694851032,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,20505088,Lê Khiêm,5,Cực kì hài lòng,"Đũa dùng cũng khá ổn, Mong muốn Shop kiểm duyệt chắc chắn chất liệu sản phẩn nhé",0,1739537950,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,10453389,Nhung,5,Cực kì hài lòng,,0,1757828622,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,19806648,Hoàng Tâm,4,Hài lòng,Đúng như mẫu  đẹp,0,1723692052,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,10448126,Hà Hương,4,Hài lòng,"Gỗ đẹp nhưng đầu đũa bên bự bên nhỏ nên nhìn cũng hơi ngứa mắt tí. Độ dài chuẩn. Mình hài lòng, chắc mua thêm đôi nữa để bên bự bên nhỏ, ráp vô đôi này cho đều ^^",0,1630636594,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,7874240,Thảo thỏ,5,Cực kì hài lòng,,0,1720627000,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,10909112,Meo Den,5,Cực kì hài lòng,,0,1718083919,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,22185571,Thảo Nguyên,5,Cực kì hài lòng,,0,1718028346,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,7137398,Lê Tuấn Anh,5,Cực kì hài lòng,,0,1715012594,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,6177868,Cường Giang,5,Cực kì hài lòng,,0,1714885948,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,14695550,Nguyễn an Khuyến,5,Cực kì hài lòng,,0,1710603469,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,27928077,Than Trong An,5,Cực kì hài lòng,,0,1709530908,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,13959360,Luyen Ai,5,Cực kì hài lòng,Ok,0,1703668725,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,17829063,Khắc quyền Nguyễn,5,Cực kì hài lòng,,0,1701844507,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,12222052,Hoanghoan Hoang,4,Hài lòng,,0,1691680983,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,317645,Phạm Anh,5,Cực kì hài lòng,,0,1689645453,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,1109878,Mai Xuân Thanh,5,Cực kì hài lòng,,0,1685334590,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,20817854,Nguyễn Ngọc Diễm,5,Cực kì hài lòng,Tốt,0,1663564573,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,16899894,Mai Trm,5,Cực kì hài lòng,,0,1676622791,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,11974871,Nguyễn Thu Huyền,5,Cực kì hài lòng,rất hài lòng với sản phẩm đũa xào thức ăn. đóng gói rất cẩn thận,0,1631694858,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,17200252,Sarah Mai,5,Cực kì hài lòng,"Độ dài lý tưởng, độ hoàn thiện cao. Mình chưa dùng trong thời gian dài nên ko thể đánh giá độ bền. Ưng ý",0,1625060964,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,14950085,Hong Hanh Nguyen,5,Cực kì hài lòng,,0,1663599238,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,8474273,Trần thị nga,5,Cực kì hài lòng,"đũa đẹp, như hình .",0,1650882864,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,10809420,NGUYỄN THỊ THU HIỀN,5,Cực kì hài lòng,"Đũa cầm chắc tay, bóng. Nhưng đôi của mình 1 chiếc to 1 chiếc bé hơn. 😂😂",0,1628347434,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,8150206,Lê Hoàng Bắc,3,Bình thường,"sp tốt ,giao hàng tận nơi",0,1646207761,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,8887182,Đỗ Khắc Công,5,Cực kì hài lòng,Ok,0,1655011214,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,9775477,Trang Nguyen,5,Cực kì hài lòng,Đũa chắc chắn,0,1649149016,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,7702601,Nguyen Trang,5,Cực kì hài lòng,Dài và nhẹ,0,1634698591,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,7564007,nguyễn quỳnh hương,5,Cực kì hài lòng,chất liệu gỗ rất ok.,0,1643336896,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,14399513,Lê Quốc Vinh,5,Hài lòng,,0,1650865633,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,8588943,Minh Thong,5,Cực kì hài lòng,,0,1635311563,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,7496836,Do Hoang Vu,5,Cực kì hài lòng,hiệu quả,0,1641788228,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,14244312,Bùi Thị Thanh Hương,5,Cực kì hài lòng,,0,1645542814,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,1390314,Tran Trong Tien Luc,5,Cực kì hài lòng,Đũa gỗ dài dễ sử dụng,0,1633491885,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,13426143,Nguyen Ngoc Vu,5,Cực kì hài lòng,good,0,1641479391,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,1444717,Võ Thị Minh Trang,5,Cực kì hài lòng,Đũa hơi đắt nhưng dùng rất thích,0,1628348568,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,11541983,Vũ Thanh Sơn,5,Cực kì hài lòng,,0,1640967553,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,390214,Luong Hang,5,Cực kì hài lòng,,0,1640828866,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,19689216,Vũ Ngoc Oanh,4,Hài lòng,,0,1640598454,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,19414687,Phạm Kiên,5,Cực kì hài lòng,,0,1640583067,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+77924641,6796462,Nguyễn Văn Tú,5,Cực kì hài lòng,,0,1639544931,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,2191687,Trung Le,1,Rất không hài lòng,Chưa nhận được hàng mà trạng trạng thái đã chuyển thành giao thanh công đặt hàng giao nhanh 2 tiếng mà tận 4 tiếng chưa nhận được hàng,0,1715319821,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,10547852,Ánh Nga,5,Cực kì hài lòng,,0,1745545795,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,11606548,Nguyễn Hậu,5,Cực kì hài lòng,"Hộp khá chắc chắn, xếp gọn dụng cụ bên trong là có thể đóng được khá chặt, khớp nối các dụng cụ không bị lệch",0,1646374732,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,11943654,Ngọc Hồ,5,Cực kì hài lòng,,0,1734606526,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,7234971,Nguyễn Thị Phương Thảo,5,Cực kì hài lòng,Hơi lỗi chắc do vận chuyển nhưng mà ksao thìa đũa chất lượng,0,1664545632,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,13353965,Kun Channel,5,Cực kì hài lòng,,0,1731479246,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,10689487,Bùi Nhật Tân,5,Cực kì hài lòng,"Giao hàng nhanh sản phẩm rất đẹp giá tiền quá rẻ so với chất lượng của sp 
+Rất ưng khi mua hàng của shop sẽ ủng hộ shop nữa 5🌟cho shop luôn",0,1656920043,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,5392762,Hà Thanh,4,Hài lòng,"Chất lượng vừa giá tiền, cán gỗ ko mới, có vệt xám ở đầu cán. Nhưng dùng vẫn ổn.",0,1692754606,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,15775074,Phan Thị Trang,5,Cực kì hài lòng,"Chất lượng đều rất tuyệt vời, bộ thìa đũa rất đẹp và chắc chắn, tiện lợi để dễ mang theo lại sạch sẽ
+ Nên mua ở đây nha mn 
+Giao hàng rất đầy đủ",0,1646379131,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,23954683,nguyễn minh hoàng,5,Cực kì hài lòng,"Hàng đẹp, giao hàng nhanh, nhiệt tình, chất lượng, shipper thân thiện, hộp nhựa hình lúa mạch thui nha! Nên mua",0,1655458105,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,17715219,Như Ý,5,Cực kì hài lòng,,0,1696778039,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,23954708,Hương Giang,5,Cực kì hài lòng,"Hộp cute lắm, nhỏ gọn mà đầy đủ, mua mang theo đi làm hay đi ra ngoài đều rất tiện.",0,1646376756,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,14280553,Nguyễn Thị Khánh Vân,5,Cực kì hài lòng,,0,1694187492,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,10689487,Bùi Nhật Tân,5,Cực kì hài lòng,"mua 4 bộ mà tui ưng quá trời à, xịn giá rẻ, mà cứng cáp, ổn nữa. nên mua nha",0,1646378062,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,23954683,nguyễn minh hoàng,5,Cực kì hài lòng,"Ui hàng xinh xẻo dã man, shop đóng gói cẩn thận, giao hàng nhanh lắm nha:))))))))",0,1646375415,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,8737175,Phạm Vũ Hiệp,4,Hài lòng,Chất lượng hợp với giá tiền,0,1663814506,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,11606548,Nguyễn Hậu,5,Cực kì hài lòng,Giao hàng nhanh lắm. Bộ thìa đũa rất đẹp.,0,1655459933,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,5663236,Quỳnh Anh,1,Rất không hài lòng,Mua 3 bộ mà 1 bộ thiếu đũa là sao vậy shop?,0,1666169082,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,599551,Bùi Hoàng Anh,5,Cực kì hài lòng,,0,1678758663,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,5507996,Nguyễn Hương,5,Cực kì hài lòng,Hàng giống hình. Chắc chắn và sạch sẽ,0,1662742157,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,15775074,quỳnh chi,5,Cực kì hài lòng,Đũa thìa rất đẹp. Không phí tiềnn. Shop giao nhsnh,0,1658461614,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,20609719,Le Thanh Ha,5,Cực kì hài lòng,,0,1677313185,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,10447460,Trần Minh Phương,5,Cực kì hài lòng,"Sản phẩm tốt, gói hàng cẩn thận, giao nhanh",0,1658977544,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,13135427,Trần Thiên Phương,5,Cực kì hài lòng,,0,1675139046,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,18325821,Nguyễn Hồng Sơn,5,Cực kì hài lòng,,0,1671631141,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,24725119,Trúc ly,5,Cực kì hài lòng,,0,1671097991,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,27589283,Liễu Cps,5,Cực kì hài lòng,"Thìa đẹp, tiện",0,1664689473,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,21609139,Giang Giang,5,Cực kì hài lòng,hàng chất lượng,0,1649773334,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,7855589,Chu Celsius,4,Hài lòng,Dùng tốt,0,1666776514,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,23954708,Hương Giang,5,Cực kì hài lòng,Quá xinh luôn,0,1665115178,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,17430023,Nguyễn Xuân Lịch,5,Cực kì hài lòng,"Tốt, đẹp",0,1650973145,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,561610,Quang Minh Nguyen,5,Cực kì hài lòng,,0,1668837178,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,13812628,Bùi Danh Quyết,5,Cực kì hài lòng,,0,1668486857,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,11033254,Lê Dũng,5,Cực kì hài lòng,,0,1660479881,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,6043465,Thanh Xuan,5,Cực kì hài lòng,,0,1660038688,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,25668035,Merry Linh,4,Hài lòng,,0,1659729582,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,27784230,Nguyen Ha,4,Hài lòng,,0,1657289848,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,27583428,Gia Trâm,5,Cực kì hài lòng,,0,1654158063,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,8942081,Văn Nguyễn,5,Cực kì hài lòng,,0,1654140491,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+165085520,16904684,Ngô Ánh,5,Cực kì hài lòng,,0,1651676262,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+54702944,11429393,Thu Thu Hà,5,Cực kì hài lòng,Giao hàng hơi chậm nhưng sản phẩm đẹp. Bõ công chờ.,0,1646291624,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+74915360,12099028,phạm triều,5,Cực kì hài lòng,Rất đep và nặng; cực kì hài lòng,1,1712745319,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,28219458,hùng mập,5,Cực kì hài lòng,,0,1737353613,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,11665227,Hanhphuong Nguyen,1,Rất không hài lòng,giao thiếu bộ muỗng nha. yêu cầu tiki hoàn tiền món thiếu là muỗng nha,0,1631866731,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,10043598,Đỗ Thiện Hồng Thuyên,5,Cực kì hài lòng,,0,1670819656,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,8049822,Mai Thanh Hoa,4,Hài lòng,,0,1648703857,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,19190164,Nguyễn Ý Vân,4,Hài lòng,Ăn được hơi bén cạnh,0,1636169922,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,194954,Nguyễn Ngọc Mai Ngân,4,Hài lòng,Muỗng này cảm giác hơi mỏng hơn so với m những muỗng cũ nhà mình đang dùng dù hình dáng giống nhau.,1,1586094654,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,15181323,Trần Văn Thắng ,5,Cực kì hài lòng,,0,1615759804,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,10250686,Bình Trần Thị Thanh,5,Cực kì hài lòng,,0,1613299601,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,17394969,Thanh Hiep,5,Cực kì hài lòng,,0,1609761960,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,11214683,Văn Thị Hồng Vân,1,Rất không hài lòng,Muỗng mỏng . Hơi thất vọng,0,1597250217,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,6213,Luong My Lan,4,"Tốt, chắc chắn","Muỗng không rãnh, chắc chắn, giá phải chăng. hài lòng với Tiki",2,1582437196,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,7358884,Trúc Linh,5,Cực kì hài lòng,"Muỗng xài rất ok ạ, giá hợp lí, hài lòng với tiki",2,1586587940,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,15511214,Nguyn Loan,5,Cực kì hài lòng,Rất ok. Giá cả hợp lý so với sản phẩm lắm,2,1587044389,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,12605529,Bùi Nhung,4,Hài lòng,muỗng sài ok,0,1599400584,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,13324003,Nguyễn Tiến Dũng,5,Cực kì hài lòng,phu hop voi nhu cau su dung. gia ca hop ly,2,1585635343,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,9204060,Mai Hiền,5,Cực kì hài lòng,"Hài lòng.........,,,,,,,,,",2,1586580010,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,1729360,Tran Thinh,5,Cực kì hài lòng,,1,1594981916,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+46183704,77582,Ngo Hoang Gia Khanh,5,Cực kì hài lòng,,2,1592455025,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+58921671,509089,Vinh Trần Quốc,1,Rất không hài lòng,Mình đặt ống cắm thìa đũa như ảnh. nhưng nhận được là loại cắm cả dao.,0,1627968635,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+58921671,7869859,Huỳnh Thị Tiếc,1,Rất không hài lòng,"Giao hàng ko đúng với hình, bị bể, móp méo",0,1607516672,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+58921671,13609959,Dan Ngo,4,Hài lòng,,0,1618133379,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,29378608,Phạm Bé,5,Cực kì hài lòng,"Sản phẩm đẹp, cứ nghĩ đũa inox sẽ nặng lắm, nhưng cầm đũa này cảm thấy nhẹ vừa tay, inox cực bóng, gấp thức ăn cũng dễ",0,1693405730,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,15313134,Cao thị Thu Huyền,5,Cực kì hài lòng,Sau sẽ mua thêm. Cái này có chống trơn ở giữa. Đẹp,0,1755311614,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,363982,Vũ Như Bách,4,Hài lòng,Khá tốt với tầm giá của sản phẩm,0,1748577989,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,16140612,Mr Chau,5,Cực kì hài lòng,,0,1756204888,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,29950277,Đức Linh Nguyễn,5,Cực kì hài lòng,,0,1749617182,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,27118766,Nguyễn Ngọc Ân,5,Cực kì hài lòng,,0,1733611533,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,27898941,Thanh Nam,5,Cực kì hài lòng,Xinh lắm inox đẹp sáng bóng sẽ mua thêm ạ. Giao hàng phải nói quá nhanh quá nguy hiểm,0,1691470066,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,8940085,Dương Vinh ,5,Cực kì hài lòng,"Đũa xài tốt, dễ cầm chất lượng.",0,1702361017,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,26656838,Pham Dinh Ty,5,Cực kì hài lòng,"Hàng giao nhanh, đúng như hình ảnh, dày, đẹp, 5 sao cho Shop",0,1690873067,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+270635997,26630032,Hưng Nguyễn,5,Cực kì hài lòng,,0,1694333877,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,532817,Tran Ngoc Binh,5,Cực kì hài lòng,"đúng như mô tả, có khắc dấu tên cty rất đẹp",0,1731681842,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,14695550,Nguyễn an Khuyến,5,Cực kì hài lòng,"hàng đẹp, chất lượng OK, rất đáng mua",0,1755608774,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,14695550,Nguyễn an Khuyến,5,Cực kì hài lòng,,0,1755218768,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,12950927,Nguyen Khanh Ngoc,5,Cực kì hài lòng,,0,1749289689,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,12950927,Nguyen Khanh Ngoc,5,Cực kì hài lòng,,0,1749289714,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,9799849,HOÀNG PHI THẠCH,5,Cực kì hài lòng,,0,1747273174,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,9799849,HOÀNG PHI THẠCH,5,Cực kì hài lòng,,0,1747273160,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,6768607,Lê Khả Sỹ,3,Cực kì hài lòng,"Hàng khá đẹp, dày dặn, bóng bẩy.
+Tuy nhiên ở đoạn nối giữa cán thìa và đầu thìa có vết xước. Cả 6 thìa đều bị.
+Mình nghĩ nguyên nhân do cách đóng gói. Với giá này thì không nên để chuyện đó xảy ra chỉ vì tiếc vài cái bao nilon.",1,1638258466,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,21163380,Dinh Trung,5,Cực kì hài lòng,,0,1745013873,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,5620287,Hoàng Quyên,5,Cực kì hài lòng,"Hôm nay mình vừa nhận được hàng muỗng Inox 304 của DandiHome, ai cũng thích hết trơn.
+Đang dịp giảm giá mình mua 4 set.
+1 set 6 muỗng ăn phở
+1 set 6 muỗng cà phê
+1 set 6 muỗng số 11
+1 set 6 muỗng cà phê cán dài
+Chất lượng lắm luôn, sáng bóng dày dặn, hàng như hình sản phẩm.
+Mình sẽ ủng hộ sản phẩm lần sau.",2,1598891265,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,19433215,Pham Bich Dao,5,Cực kì hài lòng,Okkk,0,1731332932,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,7855993,Trần Vũ Quốc,5,Cực kì hài lòng,"Đóng gói cẩn thận, giao hàng nhanh. Chất lượng tốt.",0,1695305594,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,5572071,nguyễn trung tín,4,Cũng xịn nhưng còn một chỗ,"Mình chỉ có mỗi một điểm chưa hài lòng là phần miệng của muỗng còn hơi vuông cạnh chứ ko bo tròn nên nhìn cảm giác hơi cấn cấn, còn thực tế sử dụng thì chắc cũng ko đến nỗi",0,1600218204,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,15437667,Ngo Diem Thu,5,Cực kì hài lòng,"Rất thích sản phẩm của hãng nên theo dõi và đặt khi *** chương trình khuyến mại. Vẫn còn muốn đặt mua thêm các sp khác, nhưng không thấy hiện lên khi bấm vào bài. Ko hiểu do hết hàng hay do không bán nữa. Sẽ vẫn follow",0,1627786433,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,17146689,Nguyễn Thị Bích Ngọc,5,Cực kì hài lòng,"Cảm ơn TiKi mình đã nhận được thìa inox số 11 của Dandihome cực kỳ ưng ý luôn, đúng inox 304 mà mình tìm kiếm.thìa đẹp và chất lượng đúng như mô tả.lần đầu tiên mình đặt hàng trên TiKi đã được nhân viên tư vấn rất nhiệt tình . Mình sẽ luôn ủng hộ các bạn",1,1587738067,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,124504,Võ Anh Đào,5,Cực kỳ hài lòng,"Bộ sản phẩm bao gồm muỗng cà phê, muỗng ăn, ống hút sáng bóng, chắc chắn, rất đẹp và sang trọng, chất lượng, tiêu chuẩn 5 sao. Sản phẩm đóng gói kỹ lưỡng, bao bì đẹp, rất xứng đáng với giá tiền. Lần sau tôi sẽ tiếp tục ủng hộ Shop và giới thiệu cho gia đình, bạn bè mua sử dụng vì tôi tin sản phẩm sử dụng an toàn và căn bếp sẽ trở nên đẹp đẽ hơn.",0,1596273736,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,17296126,Trần Nina,5,Cực kì hài lòng,,0,1718881566,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,17296126,Trần Nina,5,Cực kì hài lòng,,0,1718881558,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,317645,Phạm Anh,5,Cực kì hài lòng,,0,1718782820,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,317645,Phạm Anh,5,Cực kì hài lòng,,0,1718782836,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,6330946,Nguyễn Thị Thanh Hải,5,Cực kì hài lòng,"Tiki giao hàng rất nhanh.
+
+Mình đã mua khá nhiều đồ của DandiHome, hàng chất lượng, đóng gói cẩn thận.
+
+Ví dụ bộ thìa này được bọc từng cái riêng và để trong hộp, tránh trầy xước. Thìa sáng bóng, cầm chắc tay, nhìn rất sang.",0,1612760494,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,7627889,Thục Uyên,5,Cực kì hài lòng,"Muỗng sáng bóng, chắc, nặng tay, nhìn rất chất lượng. 
+Lúc đặt hàng nhìn không kỹ, muỗng dạng oval dẹt dài dạng ăn súp, không phải tròn đều dạng muỗng ăn cơm. Nhưng cũng rất hài lòng với hàng nhận được!",0,1619158515,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,5134044,Nguyễn Văn Dũng,5,Cực kì hài lòng,"Sản phẩm chất lượng, không gặp vấn đề nào, sẽ ủng hộ thêm sản phẩm của shop",0,1667022237,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,1109878,Mai Xuân Thanh,5,Cực kì hài lòng,quá đẹp,0,1707145889,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,1170110,Hà Đinh,5,Cực kì hài lòng,"Chất liệu inox 304 cứng cáp, dày dặn, tốt. Đáng mua!",0,1675139866,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,5897205,Huỳnh Thuý,3,Bình thường,"Muỗng này quá thấp k pha cafe ly dc, này muỗng pha trà ly thấp thì dc, hoặc de ăn trứng vịt lộn",0,1672974668,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,29729745,Nhân Tuấn ,5,Cực kì hài lòng,,0,1707900330,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,29729745,Nhân Tuấn ,5,Cực kì hài lòng,,0,1707900316,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,6300196,Quang Trung,5,Cực kì hài lòng,,0,1706965787,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,5897205,Huỳnh Thuý,3,Bình thường,"Qua Nặng và to khó cầm tay khi ăn,con nít thì k ăn dc cung như đúc e bé ăn",0,1672974600,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,12499945,Trinh quang hoan,5,Cực kì hài lòng,"Tôi đã nhận được hàng rồi, sản phẩm giống như hình, đẹp, sáng bóng, chuẩn inox 304. thìa đẹp nên ăn cơm cũng ngon.Mọi người nên mua dùng vì an toàn. Giá thành sản phẩm hợp lý đầu tư được lâu dài. Cảm ơn Tiki và Dandihome tôi sẽ ủng hộ dài",0,1587179613,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,7298367,Lê Hồng Quân,5,Cực kì hài lòng,"tốt, giá rẻ hơn nhiieu ở siêu thị mà chat luong tốt, đẹp",0,1662103018,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,28585010,Phạm thuý nga,5,Cực kì hài lòng,"Hàng nhận được như quảng cáo. Chất lượng tốt, giao hàng nhanh",0,1672812470,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,22771537,nguyenthanh trung,4,Hài lòng,,0,1694793814,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,649479,Lương Thị Ánh Tuyết,5,Cực kì hài lòng,"Bộ thìa số 11 kích cỡ phù hợp cho trẻ con ăn cơm, inox sáng bóng, rất đẹp. Bộ thìa số 12 kích thước vừa vặn để pha nước, uống sữa, nước cam, nước hoa quả, rất đáng mua.",1,1606746063,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,1965323,Trịnh Thu,5,Cực kì hài lòng,thìa nĩa đẹp lắm nhìn inox sâng bóng ndkskkcnfndmskskxkxkxmdd,0,1624513902,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,15310506,Nhung Nguyen,5,Cực kì hài lòng,,0,1688994377,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,10448126,Hà Hương,5,Cực kì hài lòng,"Mình rất hài lòng về sp của shop. Muỗng đẹp, inox xịn xò, sáng bóng.",0,1632982502,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,14674658,TRAN THI MY LE,5,Cực kì hài lòng,"SP giao đúng như hình ảnh, shop đóng gói cẩn thận",0,1668216421,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+51368456,85749,hồ việt xuân tú,5,Cực kì hài lòng,"Muỗng dàyyyyyy, nặng chặc tayyy",0,1659068984,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274946426,903579,Hoang Tuan Anh,4,Hài lòng,,0,1753078305,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274946426,13371057,To Dung Trang,5,Cực kì hài lòng,,0,1751076511,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274946426,10301778,Than Nguyen Van,5,Cực kì hài lòng,,0,1730121035,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+274946426,10301778,Than Nguyen Van,5,Cực kì hài lòng,,0,1730121030,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,17365598,Nguyen Trang,5,Cực kì hài lòng,,0,1742915413,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,1091448,Hồng Ngân,4,Hài lòng,,0,1713215858,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,19629445,Lam Thanh thom,5,Cực kì hài lòng,,0,1710855454,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,609059,B Huy,5,Cực kì hài lòng,sp và chất lượng rất tốt so với mức giá,0,1689353464,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,18632571,Lê Hoàng Thuý An,4,Hài lòng,,0,1679240802,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,18094403,Nguyễn Trung Trực,5,Cực kì hài lòng,"Đẹp,chắc chắn,tiện dụng .hài lòng!",0,1664179812,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+151000327,8754,Nguyễn Minh Hợp,5,Cực kì hài lòng,"đẹp, chắc chắn, rẻ, giao hàng sớm hơn dự kiến",0,1653281208,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+175470886,24454566,manh lam,5,Cực kì hài lòng,,0,1728713678,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+175470886,779135,Le Mai Phuoc,5,Cực kì hài lòng,,0,1726711756,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+175470886,8839449,Phẩm Nguyen Quốc,5,Cực kì hài lòng,,0,1669871947,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+175470886,1306581,Linh Phạm Nhựt,5,Cực kì hài lòng,,0,1660973615,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+175470886,362320,Vương Nguyễn Hương Thủy,5,Cực kì hài lòng,,0,1656720211,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+26070963,18008705,Phi Phong Nguyen,4,Hài lòng,,0,1597751334,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+55768021,13015734,Lien Anh ,5,Cực kì hài lòng,"Hàng chất lượng tốt, đẹp như hình.",0,1726452484,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+55768021,1981742,Giang Nguyen,5,Cực kì hài lòng,,0,1668308367,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+55768021,2083331,Lương Xuân Thái,5,Cực kì hài lòng,,0,1646641766,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+55768021,2199014,Nam Nguyen Van,5,Cực kì hài lòng,"đũa đẹp, chất lượng tốt, hài lòng",0,1623054633,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+55768021,16859167,Trà Lê,5,Cực kì hài lòng,,0,1624258573,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+55768021,12341739,Nguyễn Thị Thanh Hương,5,Cực kì hài lòng,,0,1610193109,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,1022129,Nguyen Thanh Binh,5,Cực kì hài lòng,Đũa cực ổn. Hình dáng giống đũa gỗ chứ ko phải loại dẹt như đũa Hàn. Mình rất ưng. Khuyên các bạn nên mua dùng cho vệ sinh. Tránh dùng xào nấu kẻo xước nồi chảo ko dính.,0,1721568943,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,532817,Tran Ngoc Binh,5,Cực kì hài lòng,"sắc sảo, đẹp, đáng tiền",0,1761057444,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,275823,hà hải An,5,Cực kì hài lòng,Đũa cần nặng tay. Cảm giác ok. Chất lượng thì dùng lâu mới biết,0,1729251682,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,29780314,Anh Kiên,5,Cực kì hài lòng,,0,1748873494,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,6643432,Nguyễn Thị Hoàng Yến,4,Hài lòng,"Đũa giống mô tả, cầm cảm giác giống đũa gỗ. Độ sáng bong bình thường. Hài lòng với sp.",0,1681298526,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,11122048,Mai Thanh Anh Dung,5,Cực kì hài lòng,"cầm nhẹ tay không hề nặng như đũa mua ngoài chợ, mẫu cũng đẹp nữa. cảm ơn shop để đẳth thêm 5 đôi nữa",0,1670247286,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,24844519,Quang Thiên,5,Cực kì hài lòng,"Cầm chắc tay, mẫu mã đẹp.",0,1685101803,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,1074382,Nguyễn Phúc Nhân,5,Cực kì hài lòng,,0,1709618193,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,6496562,Hoàng Đức Cừ,5,Cực kì hài lòng,Hàng tốt đúng với quảng cáo. Gắp ko bị trơn. Đũa rất đẹp.,0,1683561037,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,22001975,lục luân,5,Cực kì hài lòng,,0,1699630145,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,5871758,Đặng Quốc Huy,5,Cực kì hài lòng,,0,1698724791,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,23474246,Hong hai,5,Cực kì hài lòng,,0,1694356418,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,137838,Dương Thị Huyền Trang,5,Cực kì hài lòng,,0,1691859305,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,17829063,Khắc quyền Nguyễn,5,Cực kì hài lòng,,0,1681919001,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,12861242,Khánh Hà,5,Cực kì hài lòng,"sp đẹp, sáng bóng",0,1671851064,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,5113728,Trịnh Hữu Nguyên,5,Cực kì hài lòng,,0,1673961962,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+200791426,21497797,Hiếu Nguyễn,5,Cực kì hài lòng,,0,1673871389,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+252726584,855770,Nguyễn Huỳnh Như Thủy,5,Cực kì hài lòng,,1,1760188754,"đũa, muỗng, nĩa",Đồ dùng phòng ăn
+252726584,14860089,Mạnh Hùng,5,Cực kì hài lòng,Hàng chất lượng tốt giá cả hợp lý,0,1684133909,"đũa, muỗng, nĩa",Đồ dùng phòng ăn

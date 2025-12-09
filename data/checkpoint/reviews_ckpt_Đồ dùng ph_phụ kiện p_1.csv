@@ -1,0 +1,343 @@
+﻿product_id,customer_id,customer_name,rating,title,content,thank_count,created_at,kw,group
+107098875,556026.0,Đặng Đức Khiêm,5,Cực kì hài lòng,,0,1722474790,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,15339405.0,Nguyễn Ngọc Cương,4,Hài lòng,,0,1714659559,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,13069946.0,Tuấn Trần,4,Hài lòng,,0,1708324187,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,22256747.0,Đại Như Nguyện,3,Bình thường,"Chất gỗ ko đẹp, móc ko trau chuốt như hình, lại còn lắp móc nằm ngang chàng làm sao mà treo đồ được?!",0,1660990447,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,8420224.0,Ng Hưng Hải,1,Rất không hài lòng,"Quá ẩu, chỉ là miếng gỗ đc xẻ ra thậm chí conf ko thèm nhám cho tử tế, ko phun cũng ko thèm đánh xi",0,1654790005,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,10525509.0,Duy Mão,3,Bình thường,Sản phẩm chưa được Sơn phủ,0,1679144860,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,14527961.0,Lê Diễm,5,Cực kì hài lòng,,0,1686279522,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,8420224.0,Ng Hưng Hải,2,Không hài lòng,Ko ngửi được quad ẩu không thèm đánh nhám luôn.,0,1654706450,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,5408878.0,Vũ Văn An,5,Cực kì hài lòng,Đã treo lên khá đẹp!,1,1644309512,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,11993900.0,Nguyễn Văn A,5,Cực kì hài lòng,,0,1665482669,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,27225966.0,Văn Đoàn,5,Cực kì hài lòng,,0,1665466067,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,7687264.0,Toan Vo,2,Không hài lòng,Không phải thanh go nguyen ma la thanh go ghép,0,1634800567,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,11993900.0,Nguyễn Văn A,5,Cực kì hài lòng,,0,1664769590,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,5504359.0,Minh Quân,4,Hài lòng,Tạm ổn về chất lượng. Đúng như ảnh cung cấp,0,1645451038,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,12292807.0,nguyen manh tung,5,Cực kì hài lòng,Dep sac sao hy vong xai duoc lau,0,1647786823,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,12292807.0,nguyen manh tung,5,Cực kì hài lòng,Đep xuat sac nen mua,0,1647823998,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,8788731.0,Nguyễn Kiều Trang,5,Cực kì hài lòng,Ư,0,1650688203,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,27073879.0,Nguyễn Quang,5,Cực kì hài lòng,Khá tốt,0,1647617461,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,12354152.0,Trần Hoàng Anh,5,Cực kì hài lòng,,0,1649810856,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,10692500.0,Quốc Trình,4,Hài lòng,Ok,0,1648096785,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,1065803.0,Do Thi Le ,5,Cực kì hài lòng,,0,1648429808,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,12292807.0,nguyen manh tung,5,Cực kì hài lòng,,0,1647786867,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,7580445.0,Nguyễn Phương Linh,5,Cực kì hài lòng,,0,1647776703,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,5115722.0,Dương Văn Cộng,5,Cực kì hài lòng,,0,1646107251,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,7085197.0,Hòa Nguyễn,5,Cực kì hài lòng,,0,1645557444,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,15587497.0,Lê Liên Phương,5,Cực kì hài lòng,T,0,1644513487,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,,Khách Hàng,5,Cực kì hài lòng,Đẹp,0,1639972691,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,16041958.0,Lê Quang Hưng,4,Hài lòng,,0,1641034637,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,23936820.0,Đỗ Nhật Phong,5,Cực kì hài lòng,tốt,0,1636549055,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,641249.0,Nguyễn Đăng Tuấn Nhu,5,Cực kì hài lòng,ok,0,1637127308,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+107098875,12747298.0,Thư Nguyễn,5,Cực kì hài lòng,,0,1637505502,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+20286263,7566887.0,Nguyễn Hùng Minh,3,Bình thường,"đeo vào hơi khoa thoqr, chưa tìn dc cách nào dùng hiệu quả nhất",0,1728784966,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+20286263,19599617.0,Trần Ngọc Anh Thư,1,Rất không hài lòng,Tôi đặt mua 2sp giá 46x2. Nhưng khi giao chỉ có 1,0,1608979101,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+20286263,10902622.0,Ngan Le,3,Bình thường,Mùi nhựa hơi khó chịu nhưng sp cũng được ?????????,0,1574989911,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,15362924.0,TRAN NHO HAN,5,Cực kì hài lòng,,0,1666922987,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,1279614.0,Nguyen Tuan Anh,4,Hài lòng,"sản phẩm giống mô tả, chưa rõ xuất xứ do bao bì không có tiếng Việt. Sẽ kiểm chứng chất lượng sản phẩm. Cám ơn shop",0,1578314027,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,9428977.0,Ngọc Tùng Lê,5,Cực kì hài lòng,,0,1653833305,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,14683956.0,nguyen dan,5,Cực kì hài lòng,,0,1648224975,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,10411812.0,Loan Dương,4,Hài lòng,,0,1639225098,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,19698418.0,Thắng Thảo,1,Rất không hài lòng,"Vẫn gáy như thường , nói chung như l",0,1623551253,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,887262.0,Cầm Bá Thụ,3,Bình thường,"Không hiệu quả, dễ thất lạc",0,1614755306,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,7800505.0,Tyxate,5,Cực kì hài lòng,,0,1625717364,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,6245650.0,Dinh Vu Phong,2,Không hài lòng,không như quảng cáo,0,1614591491,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,20797349.0,huy vo,4,Hài lòng,,0,1621425061,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,10148738.0,Nguyễn Đăng Ngọc Thái,5,Cực kì hài lòng,,0,1620961417,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,15322812.0,Nguyễn Anh Tuấn,5,Cực kì hài lòng,,0,1615889946,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,6256416.0,Pham Huong Tra,4,Hài lòng,,0,1612153481,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,6282067.0,Nguyễn Quang Đạo,4,Hài lòng,,0,1610243409,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,14270386.0,Bui Tuan,5,Cực kì hài lòng,,0,1603803853,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,16814294.0,Vui Pham,3,Bình thường,,0,1600303269,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,15170991.0,Lê Ngọc Thành,3,Bình thường,Đuoc,0,1595664092,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+43342869,942337.0,Huỳnh Phú,5,Cực kì hài lòng,,0,1594812069,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+3103001,10263005.0,nguyen dinh khuong,1,Rất không hài lòng,"buon thiet .buon ban  gi ma gui ko dung hang  , ai dam mua nua , toi ko bao gio mua hang tiki nua",0,1569412532,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+70547210,11502259.0,Lâm Văn Long,5,Cực kì hài lòng,,0,1634819267,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+70547210,17638978.0,Nguyễn Tường Huy,4,Hài lòng,,0,1614157044,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+70547210,15363498.0,Huynh Thanh Thao,5,Cực kì hài lòng,,0,1608481054,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+175872604,8635557.0,Nguyen Mai,5,Cực kì hài lòng,"Hàng đẹp, màu đen mờ đúng như ý muốn. Đóng gói kỹ. Giao đúng ngày đã báo.",0,1663405006,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+175872604,6684589.0,Viet Hung Nguyen,5,Cực kì hài lòng,,0,1690957621,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+2125845,15530760.0,Lê Thanh Nguyên,5,Cực kì hài lòng,,0,1600523102,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+35415935,19260393.0,Khánh Kid,5,Cực kì hài lòng,"Tiki giao hàng sớm hơn dự kiến, rất hài lòng. Nhưng sao trong hình quảng cáo là thuý kiều còn khi đeo thử thì lại là thị nợ vậy shop? Nhưng vẫn cho 5 sao nhé",0,1616677570,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+35415935,5392062.0,Thế Duy Huỳnh,5,Cực kì hài lòng,,0,1617341757,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+35415935,12781701.0,Diệu Linh,5,Cực kì hài lòng,,0,1608712426,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,19805802.0,Vy Thị Trâm,5,Cực kì hài lòng,"Đèn rất đẹp để trang trí decor phòng u là trời, sp tốt shop giao hàng nhanh OK nhé mn",2,1669088030,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,19805895.0,Trần Ngọc Hạ,5,Cực kì hài lòng,"Sp đẹp, shop giao hàbg nhanh đóng gói kĩ OK 10₫",3,1668508095,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,19805345.0,Hải Yến,5,Cực kì hài lòng,"Hàng đúng như miêu tả, đẹp, giao nhanh, đóng gói kĩ",0,1673621599,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,19805385.0,Lê Thùy Trang,5,Cực kì hài lòng,Đèn đẹp cưng muốn xỉu,0,1671374428,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,19805364.0,Vy Oanh,5,Cực kì hài lòng,"Shop đóng gói cẩn thận, nv giao hàng thân thiện",0,1671982321,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,23600554.0,Huu Viet,5,Cực kì hài lòng,,0,1679879893,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,7559328.0,Van Le,4,Hài lòng,,0,1674446091,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,7694394.0,mon hoang,5,Cực kì hài lòng,,3,1663229509,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,22347490.0,aki moon,5,Cực kì hài lòng,Đẹp,34,1628663034,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,8620075.0,Rio,5,Cực kì hài lòng,đẹp,33,1640929936,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,5838495.0,Nguyễn Hồng Lĩnh,5,Cực kì hài lòng,,33,1628675423,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,21389454.0,Trần thị thanh Thuý ,5,Cực kì hài lòng,,33,1621155489,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+73992103,1983579.0,Nguyen Tien Trung,5,Cực kì hài lòng,"Đẹp, chất lượng, nên mua",33,1609306102,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+150199642,11606548.0,Nguyễn Hậu,5,Cực kì hài lòng,"chất lượng sản phẩm oke tốt, k có vấn đề gì, y hình giống màu sắc mô tả. chất lượng xứng đáng trong tầm giá tiền",0,1640049737,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+150199642,10689487.0,Bùi Nhật Tân,5,Cực kì hài lòng,"thảm đẹp lắm, còn to nữa. mọi nguoiwf nên sắm , decor phòng siêu xinh luôn ý",0,1640064288,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+150199642,23954708.0,Hương Giang,5,Cực kì hài lòng,"màu xinh lắm luôn ý ạ. lông mềm. decor phong siêu xinh luôn, shop nhiệt tình, giao hàng nhanh",0,1639975989,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+150199642,23954683.0,nguyễn minh hoàng,5,Cực kì hài lòng,"thảm đẹp lắm, dày dặn nữa. mn nên mua ạ. shipper và shop rất nhiệt tình. oke 5 sao nhé",0,1640060964,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+150199642,15775074.0,Phan Thị Trang,5,Cực kì hài lòng,"shop bọc hàng cẩn thận, giao nhanh, thảm khá dày, lông mềm, giao đúng mẫu mô tả",0,1640066436,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,24883187.0,Anh Huy,5,Cực kì hài lòng,,0,1719667228,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,23100871.0,tran minh tam,5,Cực kì hài lòng,,0,1709692353,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,29144205.0,Uyên Phan,5,Cực kì hài lòng,,0,1704878492,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,21725353.0,Le Minh,3,Bình thường,"Có vẻ không bền khi độ ẩm cao, dễ bị mốc",0,1683108168,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,17041583.0,PHAM DINH TUYEN,5,Cực kì hài lòng,,0,1696285805,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,5213589.0,Võ Minh Trọng,5,Cực kì hài lòng,Đẹp,0,1678531582,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,21121781.0,Bach Yen Tran ,5,Cực kì hài lòng,"Kểu dáng gọn , nhiều móc, thuậnnlowij sử dụng",0,1670808838,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,10705072.0,vinh Ha,4,Hài lòng,,0,1688527575,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,9972037.0,Nguyen Thi Minh,4,Hài lòng,,0,1687624090,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,15036044.0,Hiệp Nguyễn,5,Cực kì hài lòng,Đẹp. Nhưng ko biết phần kim loại có bền ko.,0,1667374765,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,14059527.0,Hải Quang Phan,5,Cực kì hài lòng,sản phẩm hoàn thiện rất tốt nhé,1,1669720012,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,7912287.0,Lã Việt Dũng,5,Cực kì hài lòng,,0,1681047987,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,7912287.0,Lã Việt Dũng,5,Cực kì hài lòng,,0,1673052409,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+197546200,19835410.0,Nguyen Hai Bang,4,Hài lòng,,0,1668646763,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275475573,16309989.0,Quân Tường,4,Hài lòng,,0,1757581701,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+273474876,13564117.0,Trần Nguyễn Hoài Thanh,5,Cực kì hài lòng,,0,1744266640,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+273474876,13564117.0,Trần Nguyễn Hoài Thanh,5,Cực kì hài lòng,,0,1740296378,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+199957798,16333426.0,Ngoc Yen,5,Cực kì hài lòng,,0,1747145627,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+199957798,15734554.0,Le Thi Thanh Nhan,4,Hài lòng,,0,1734270667,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+199957798,17778121.0,Quyên Quyên,5,Cực kì hài lòng,"Chữ cụa tuiiii, awwww xinh lắm,nma đg bật xong ở xa chụp nên ko được đẹp thoiiii, chứ chính mắt nhìn đẹp cực",1,1671700444,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+199957798,18117976.0,Nguyễn Minh Đức,5,Cực kì hài lòng,,0,1697460210,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,13215870.0,Cao văn hân,4,Hài lòng,,0,1724750454,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,15977328.0,Trần hoàng trung,5,Cực kì hài lòng,Ok,0,1708575557,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,18911470.0,Phạm Hoài Nam,5,Cực kì hài lòng,Tiki giao hàng nhanh,0,1681720283,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,10088621.0,Trần Lâm Văn Khoa,5,Cực kì hài lòng,"Tốt, bịt mắt dễ ngủ vào ban ngày",0,1685442175,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,688965.0,nguyễn anh thư,4,Hài lòng,bịt mắt hơi rộng giao hàng nhanh,0,1654605506,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,14458573.0,Nguyn Hng,5,Cực kì hài lòng,"Giao hàng nhanh, sản phẩn thì ok",0,1645769490,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,17811060.0,Phạm Quốc Duy,5,Cực kì hài lòng,,0,1670744649,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,1380032.0,Phuong Huynh,5,Cực kì hài lòng,Giao hàng nhanh. Bịt kín vừa mắt.,0,1654680986,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,6402257.0,Phạm Quang Hùng,5,Cực kì hài lòng,,0,1663125805,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,6990922.0,Lê Trần Công Danh,5,Cực kì hài lòng,,0,1663005820,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,8025994.0,Thuy Bui,5,Cực kì hài lòng,,0,1655741956,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,8839449.0,Phạm Nguyên Quốc,5,Cực kì hài lòng,,0,1654355756,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,12881326.0,Quốc Tuấn,5,Cực kì hài lòng,,0,1653365238,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,12372587.0,Nguyễn Lê Tấn Nghiệp,5,Cực kì hài lòng,,0,1651125538,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,691280.0,Nguyễn Quang Huy,5,Cực kì hài lòng,,0,1650445982,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,1120758.0,Nguyễn Văn Trịnh,4,Hài lòng,,0,1649298283,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,8748546.0,Trần Thị Thuý Hồng ,5,Cực kì hài lòng,ok,0,1648603856,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,1962415.0,Ho Quang Minh,5,Cực kì hài lòng,,0,1648815738,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,12587510.0,Lưu Đức Tài,4,Hài lòng,,0,1648212432,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,22955455.0,Thanh Trí Trần,5,Cực kì hài lòng,"sp tốt, giao nhanh!",0,1638197062,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,72130.0,Thu Lê,5,Cực kì hài lòng,"Tính hơi khó chịu với ánh sáng. Mới mui còn hơi kích, chất liệu và kiểu dáng tốt.",1,1594817070,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,7907361.0,Nguyễn Thị Ngân,5,Cực kì hài lòng,,0,1641696439,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,22244803.0,Nguyen Nam,5,Cực kì hài lòng,,0,1641005580,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,12755246.0,Loc Dang,5,Cực kì hài lòng,giao nhanh,0,1634612446,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,15258854.0,Đặng Văn Dũng,4,Hài lòng,ổn,0,1634191169,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,10163405.0,Vo Minh Tuan,5,Cực kì hài lòng,,0,1631041332,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,12314648.0,NGUYỄN PHÚ VINH,5,Cực kì hài lòng,,0,1624145724,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,1988081.0,Hà Quốc Huy,5,Cực kì hài lòng,,0,1614488626,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,14373984.0,Lê Hoàng Thanh Uyên,5,Cực kì hài lòng,,0,1613793905,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,6934529.0,Thuy,5,Cực kì hài lòng,,0,1608944949,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,10704616.0,Bình Long,5,Cực kì hài lòng,,0,1608737558,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,2228473.0,Thanh Nguyen,5,Cực kì hài lòng,,0,1608555006,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,1142280.0,Vu Hoang Giap,5,Cực kì hài lòng,,1,1606271294,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,6346901.0,Trần Sĩ Đức,5,Cực kì hài lòng,,1,1603911177,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,129987.0,NGUYEN DOM,4,Hài lòng,,1,1596415189,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+12608591,11408370.0,Châu Văn Hiếu,5,Cực kì hài lòng,,1,1595548705,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,597509.0,Quyết Bùi,5,Cực kì hài lòng,"Đã thử thấy ok, chắc chắn, vừa tay cảm giác thoải mái. Hài lòng 🙂😭",1,1634550676,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,24609134.0,Nguyễn Hồng Quang,5,Cực kì hài lòng,"Thử một cái, cảm giác như bị điện giật suýt vung tay, tỉnh cả người. Nhiều chế độ kích thích. Chờ hôm nào mất ngủ đem ra dùng, hy vọng ngủ tốt.",0,1642386818,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,11468885.0,Truong Vu Khoi Nguyen,5,Cực kì hài lòng,,0,1702187843,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,14072191.0,Thu Huệ,1,Rất không hài lòng,"giờ mới mở hàng, bỏ pin mở không lên pin thì bị méo,không sáng đèn sao dùng, quá chán",0,1633833408,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,12956135.0,duong thanh tung,5,Cực kì hài lòng,,0,1676710751,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,7016283.0,Đỗ Văn Hiền,5,Cực kì hài lòng,Hàng chất lượng tốt giống quảng cáo,0,1660971883,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,8092587.0,Quang Huy Nguyen,5,Cực kì hài lòng,"thấy đóng gói là ưng ý rồi, để xài thời gian có hiệu quả không?",0,1648699725,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,11765222.0,nguyễn phượng,5,Cực kì hài lòng,"mới dùng nên chưa biết mức độ hỗ trợ giấc ngủ có ok không,nhưng máy dễ sử dụng,nhỏ xinh,ok.",0,1633838465,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,5870074.0,Hoa Huong Duong,5,Cực kì hài lòng,"san pham tot ,ho tro giac *** ngon",0,1645072343,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,15639587.0,Hng Sen,4,Hài lòng,Sản phẩm chưa sử dụng dc,0,1642653794,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,22981327.0,Nguyen Quynh,5,Cực kì hài lòng,"Mấy hoạt động tốt, nhỏ gọn",0,1639730719,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,9789932.0,Thuỷ Xinh,4,Hài lòng,,0,1650942366,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,9039702.0,Thuylinh Nguyen,5,Cực kì hài lòng,,0,1645607256,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,22981327.0,Nguyen Quynh,5,Cực kì hài lòng,Máy tốt,0,1638061418,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,10842504.0,Minh Đạt,5,Cực kì hài lòng,ok,0,1639388862,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+110652530,6824035.0,subin subin,4,Hài lòng,,0,1636440573,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+155186594,27483464.0,Thiên Hoàng,5,Cực kì hài lòng,"Rất đẹp , đúng quản cáo . Shop làm ăn uy tín , giao nhanh đúng hẹn , đúng hàng , đúng màu . Mình thấy các shop có tiki now thường rất uy tín , mình mua hàng chưa bị giao sai bao giờ . Có các nhà bán không có tiki now thì giá rất rẻ, giao lâu nhưng lại giao đểu , giao sai hàng nhiều . Mình để lại ý kiến cho mọi người tham khảo nhé . Không nên thấy rẻ mà ham",0,1661355777,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+155186594,23681561.0,Thuỳ Dung,5,Cực kì hài lòng,,0,1750299546,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+155186594,10132638.0,Tho Pham,5,Cực kì hài lòng,Đã nhận hàng giao hàng rất nhanh và còn được tặng 1 khay son môi. Giá tốt và mẫu đẹp màu đỏ da khá là oki.,0,1664420548,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+155186594,19423333.0,Trang Khang Nguyen,5,Cực kì hài lòng,,0,1663849840,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,30184688.0,Nguyễn Trâm,5,Cực kì hài lòng,"Hộp cứng cáp, đường may đẹp, đáng tiền. Có thêm miếng lót ở đáy hộp là hoàn hảo",0,1733040099,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,11662116.0,No Name,5,Cực kì hài lòng,"#Reviewthang10 #Metiki #Hopvaidungphukien
+Nickname: Boncute1
+Mình có bé nhỏ nên đồ dùng linh tinh cho bé khá nhiều. Mình lướt Tiki và chụp ngay được bộ hộp vải này. 
+Bộ có 6 hộp với 2 hộp vuông to, 2 hộp nhỏ chữ nhật và 2 hộp nhỏ vuông. Cá nhân mình thì dùng để khăn sữa, bỉm, nón và bao tay bao chân sơ sinh cho bé. Khá lỉnh kỉnh nên mình rất mong chờ bộ hộp này về.
+⭐️Bộ hộp làm bằng vải và có thể xếp gọn lại khi không dùng tới, kích thước nhỏ và phù hợp để vật dụng nhỏ. Cũng vì kích thước nhỏ nên khá gọn gàng khi để lên giường, bàn, tủ hoặc hộc nhỏ.
+⭐️Sản phẩm bằng vải nên có thể vệ sinh dễ dàng. Giá mềm nhưng chất lượng rất tốt.
+⭐️Chất lượng sản phẩm vượt xa mong muốn của mình luôn, màu sắc lại rất sang trọng và sạch sẽ.
+Chấm điểm sản phẩm 10/10
+Dịch vụ giao hàng TikiNow của tiki rất rất tốt: 10/10",0,1635132067,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,672907.0,Chinh Nguyen,5,Cực kì hài lòng,,0,1752754557,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,457737.0,Nguyen Thi Xuan Huong,4,Hài lòng,,0,1745209769,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,7413402.0,Hang Nguyen,5,Cực kì hài lòng,"Hàng nhận đúng số lượng, đúng mẫu mã!",0,1725164559,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,29147565.0,TRẦN THỊ HƯƠNG THUỶ,5,Cực kì hài lòng,Chắc chắn. Tiện lợi. Dễ sử dụng.,0,1722844006,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,1953610.0,Duong Tri,5,Cực kì hài lòng,,0,1733377874,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,273418.0,Nguyễn  Trúc,5,Cực kì hài lòng,"Hàng đẹp như hình, giá cả hợp với chất lượng. Giao hàng nhanh và đóng gói cẩn thận.",0,1679493597,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,29147565.0,TRẦN THỊ HƯƠNG THUỶ,5,Cực kì hài lòng,Tiện lợi.,0,1723470005,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,18146817.0,Phương Nguyễn,5,Cực kì hài lòng,,0,1726378678,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,14932730.0,Tuyet Bui,5,Cực kì hài lòng,"Sản phấm hữu dụng, vải dày , bỏ vào tủ áo rất tiện lợi",0,1677113430,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,1624621.0,Trần Thị Bảo Ân,5,Cực kì hài lòng,"Hộp khá chắc chắn, dùng sắp xếp quần áo sơ sinh rất tiện, màu hơi xỉn so với hình nhưng dùng tốt là được.",0,1668431064,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,22412740.0,nhu phuong,1,Rất không hài lòng,"Bộ 6 hộp mà giao 3 hộp 
+Cần đổi trả hình không có vách ngăn mà nhận đc lại có vách ngăn",0,1675065281,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,11484077.0,Phan An,5,Cực kì hài lòng,,0,1711240869,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,10415458.0,Vu Trung,5,Cực kì hài lòng,,0,1706938998,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,27003625.0,Ngoc Anh,5,Cực kì hài lòng,Rất dễ sử dụng và rất hiệu quả,0,1692435788,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,10902205.0,Trần Thị Kim Liên,3,Bình thường,"K đứng vững,hơi có mùi……….",0,1691729504,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,9862059.0,Nguyễn Huỳnh Phương An,5,Cực kì hài lòng,"Chất lượng ổn giá phải chăng, nên mua dùng thử rất tiện nha",0,1672208153,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,5682906.0,Phạm Nguyễn Phương Phương,4,Hài lòng,,0,1694156632,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,1780701.0,Nguyễn Thu Hà,5,Cực kì hài lòng,tiện lợi cơ động,0,1671116057,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,28327114.0,Julie Pham,5,Cực kì hài lòng,"Gọn gàng, tốt",0,1686115439,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,21364320.0,Minh Chau,5,Cực kì hài lòng,,0,1687599238,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,7286440.0,Nguyễn Hữu Đạt Đức,5,Cực kì hài lòng,,0,1686358677,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,460836.0,Hoàng Quỳnh Trang,5,Cực kì hài lòng,,0,1683391579,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,17565837.0,Huynh Que Dung Dinh,5,Cực kì hài lòng,"Hộp cứng cáp, để đồ khá gọn, vách ngăn còn hơi mỏng",0,1657040427,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,8831207.0,Hà Thị Thanh Phương ,5,Cực kì hài lòng,Hộp dày dặn nên mua,0,1671551638,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,16266908.0,Mark Tran,3,Bình thường,Sản phẩm có mùi khó chịu.,0,1665995036,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,752925.0,Thanh Doan,5,Cực kì hài lòng,,0,1676648904,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,752925.0,Thanh Doan,5,Cực kì hài lòng,,0,1676629801,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,15287117.0,Bảo Nguyện,5,Cực kì hài lòng,,0,1676161657,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,22412740.0,nhu phuong,5,Cực kì hài lòng,,0,1675680737,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,9819866.0,Đoàn Điểm,5,Cực kì hài lòng,,0,1675500371,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,1413374.0,Vũ Anh Dũng,4,Hài lòng,,0,1673850716,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,2024399.0,LÊ HỒ NGUYỄN DIỆP THÙY DƯƠNG,5,Cực kì hài lòng,Hộp đẹp để đồ gọn,0,1657209537,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,8506512.0,Đan Linh,5,Cực kì hài lòng,,0,1666063728,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,163300.0,Mai Thu Hồng,5,Cực kì hài lòng,,0,1665564950,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,8845293.0,Khả Nhi,5,Cực kì hài lòng,,0,1664685741,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,10045081.0,Linh Nguyen,5,Cực kì hài lòng,,0,1659879825,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,12295182.0,Le Hoa,5,Cực kì hài lòng,,0,1659072473,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+87959612,13971927.0,Nguyễn Ngọc Hân,5,Cực kì hài lòng,,0,1658833710,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+102758616,18168240.0,Trương Thị Xuân Bình ,1,Rất không hài lòng,"Không hai lòng,ko giống như qc",0,1654301430,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+102758616,18212087.0,Nguyen Ngoc Dung,3,Hài lòng,không đẹp như hình. nhìn thô lắm,0,1642523648,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+102758616,16991989.0,Tran Vu Anh Thi ,5,Cực kì hài lòng,,0,1650086912,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+102758616,25762848.0,vy nguyễn,5,Cực kì hài lòng,,0,1639362863,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+261813121,7303828.0,Nguyen Quang Loc,5,Cực kì hài lòng,"Giao hàng nhanh, giá tốt",0,1729559393,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+212261767,12422043.0,Tân Thành Đang,5,Cực kì hài lòng,,0,1746778610,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+212261767,16825908.0,Hà Ngọc Thanh,4,Hài lòng,"Vận chuyển để móp, nói chung là ổn",0,1679282449,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+212261767,17270756.0,Hoang Đinh Tung,4,Hài lòng,,0,1705396301,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+212261767,21755209.0,Trần Quang Huy,5,Cực kì hài lòng,,0,1681129387,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+212261767,5332174.0,Vinh Nguyen,5,Cực kì hài lòng,,0,1673956569,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+217727016,23122530.0,kim loan,5,Cực kì hài lòng,,0,1724423575,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+217727016,539679.0,Michael Vu,5,Cực kì hài lòng,,0,1700183230,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+217727016,28942471.0,Trần An,5,Cực kì hài lòng,Như mong đợi,0,1679230646,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275875109,20729908.0,Dương Lê,5,Cực kì hài lòng,,0,1760235986,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275875109,17813001.0,quan hoa ,4,Hài lòng,,0,1758258488,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275875109,30250819.0,Bùi Văn An,5,Cực kì hài lòng,"Tốt êm, nhưng giá hơi chát tí",0,1735565596,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275875109,27695966.0,Nguyễn Quang Thắng,5,Cực kì hài lòng,,0,1741326877,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275906216,18165225.0,VŨ HOÀNG GIANG,5,Cực kì hài lòng,,0,1759976985,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275906216,11580376.0,Quỳnh Thanh,5,Cực kì hài lòng,,0,1759852602,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275906216,507647.0,Việt Lương,5,Cực kì hài lòng,,0,1751197289,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275906216,27464360.0,Bích Trâm,5,Cực kì hài lòng,,0,1737612734,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277448944,19102524.0,Trần Phú,5,Cực kì hài lòng,,0,1760243776,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275088891,29600517.0,Nguyen Kyei,5,Cực kì hài lòng,,0,1759743105,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275088891,23876123.0,Đăng Nhâm,3,Bình thường,"Sản phẩm quá mỏng, dễ rách",0,1729486333,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275088891,12080288.0,Ducminh Giang,5,Cực kì hài lòng,,0,1739370969,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+275088891,8356877.0,Nhat anh,5,Cực kì hài lòng,,0,1721787118,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,13726633.0,Nguyên vẫn hanh,5,Cực kì hài lòng,,0,1745841241,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,20841216.0,Đào Thị Bích Vân ,5,Cực kì hài lòng,Hơi bé hơn cái võng nhà mình nhưng mà tiện và con mèo của mình rất thích,0,1646395659,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,14998578.0,Huan Dinh Quang,5,Cực kì hài lòng,,0,1681175546,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,18973914.0,Minh tâm,5,Cực kì hài lòng,,0,1673720758,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,15049253.0,Tran Thi Ngoc Mai,5,Cực kì hài lòng,,0,1663142162,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,5957430.0,Zalo Thu Nguyễn,4,Hài lòng,"Sản phẩm ổn ,hơi khó sử dụng",0,1649186606,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,16503078.0,Đăng Trần,4,Hài lòng,jjj,0,1654231928,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,19067707.0,Nguyễn Thị Nhung,5,Cực kì hài lòng,Đẹp,0,1650855409,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,13662871.0,Phạm Poobabie,5,Hài lòng,,0,1652184491,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,21329429.0,linh xu,5,Cực kì hài lòng,,0,1646737209,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,8982210.0,Nguyễn Bảo Khánh,5,Cực kì hài lòng,,0,1644371491,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,5800709.0,Tan Phong Lam,5,Cực kì hài lòng,mung mau ma dep giao hang nhanh,0,1628224692,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,11439063.0,Nhung nguyen,5,Cực kì hài lòng,xai ok,0,1634107217,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,12284733.0,Thúy An,5,Cực kì hài lòng,,0,1627311288,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,20399154.0,Trần Thị Hoà,5,Cực kì hài lòng,,0,1627308060,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,712717.0,Nguyen Duc Hien,5,Cực kì hài lòng,"giao hàng rất nhanh, rất hài lòng.",1,1610726514,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,15286320.0,Trần Tuyết,5,Cực kì hài lòng,,0,1624900130,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,12193588.0,Nguyen Thi Minh Hue,5,Cực kì hài lòng,,0,1624185507,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,8394807.0,Thuỳ Loan,5,Cực kì hài lòng,,0,1622896735,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,15357829.0,Suong Mai Le,5,Cực kì hài lòng,,0,1622509016,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,7171652.0,Bích Ngọc,5,Cực kì hài lòng,,0,1621231311,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,7666069.0,Phạm Mai,5,Cực kì hài lòng,,0,1621204078,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,1211854.0,Nguyễn Hương Ly,5,Cực kì hài lòng,,0,1619107488,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,15867681.0,Bùi Đức Lành,5,Cực kì hài lòng,Rất ok,0,1615767512,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,17556038.0,bao ngoc,5,Cực kì hài lòng,,0,1617542570,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,14752522.0,Nguyễn Phương,5,Cực kì hài lòng,,0,1616898382,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,9038733.0,Huỳnh Thị Ánh Hồng ,4,Hài lòng,,0,1616863055,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,13530649.0,Lee Tinh,5,Cực kì hài lòng,,0,1616250978,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,11251711.0,Huỳnh Thị Kiều Oanh,4,Hài lòng,sp tốt nên mua,1,1610413690,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,20230720.0,Thạch Thị liễu,5,Cực kì hài lòng,,0,1615823536,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,11574870.0,Luu Thuy Hong,4,Hài lòng,,0,1615775804,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,18513382.0,NGUYỄN MAI Thảo,5,Cực kì hài lòng,,1,1614254251,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,10412477.0,Huỳnh Quang Minh,5,Cực kì hài lòng,,0,1612496778,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,18784071.0,Đoàn Văn Thanh,5,Cực kì hài lòng,,0,1611793849,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,8145177.0,Lê Thị Danh,5,Cực kì hài lòng,,0,1611483720,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,7941880.0,Phan Thị Cẩm Duyên,4,Hài lòng,,1,1609820623,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,12641756.0,Nguyen Thi Thu Yen,5,Cực kì hài lòng,,2,1609505009,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,11495187.0,Xuân Hòa,3,Bình thường,Bình thường.,1,1601946617,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,15037794.0,Lien Tang,5,Cực kì hài lòng,,2,1605074870,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+277438575,13539723.0,Thi Thơ,4,Hài lòng,,1,1604150243,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,29290849.0,Nguyễn Thị Thùy Trang,5,Cực kì hài lòng,,0,1754579847,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,9153167.0,Nguyen Minh Tuan,4,Hài lòng,,0,1753584669,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,19844.0,Nguyễn Thanh Mỹ,5,Cực kì hài lòng,,0,1752237750,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,7663795.0,Nguyen Thanh Tam,5,Cực kì hài lòng,Giao hàng nhanh chóng hàng đẹp,0,1733637074,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,28297152.0,Sơn Thị Thu Hiền,5,Cực kì hài lòng,,0,1742079635,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,30185408.0,Sun Be,5,Cực kì hài lòng,,0,1739509844,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,11732365.0,Tung Do,5,Cực kì hài lòng,,0,1734834962,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,29316727.0,Bùi Quốc Bằng,5,Cực kì hài lòng,,0,1731199314,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,100203.0,Bùi Điệp Linh,5,Cực kì hài lòng,"Dễ thao tác, lắp đặt. Sản phẩm phù hợp với cửa phòng nhỏ 80cm. Nam châm mềm chưa biết từ tính có được lâu dài không. Được cái là mấy đêm rồi ngủ ngon, không bị muỗi làm phiền.",0,1626689265,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,12223613.0,Lương Thị Thủy,4,Hài lòng,không có hướng dẫn cụ thể nên hơi khó làm,0,1625810382,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,14635863.0,Đinh Diễm,1,Rất không hài lòng,"không sử dụng được,như vải mùng thôi,khó gắng",0,1621144383,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,8283764.0,Đào Nguyên,5,Cực kì hài lòng,,0,1639362364,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,9110449.0,Huong Tran Thi Thanh,1,Rất không hài lòng,"k hướng dẫn sử dụng bằng tiếng việt, k biết gắn thế nào",0,1614394692,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,5721234.0,Phạm Thị Thuý,5,Cực kì hài lòng,shipper dễ thương,0,1627303929,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,15136958.0,lê như,5,Cực kì hài lòng,,0,1628900137,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,18026018.0,Minh minh,3,Bình thường,tốt chất lượng cam thay vua log,0,1616249308,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,20303890.0,Thiên Trúc,4,Hài lòng,tốt,0,1626493394,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,730425.0,Trần Anh Khôi,5,Cực kì hài lòng,,0,1620453744,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,11343722.0,Trịnh Tố Cầm ,4,Hài lòng,,0,1617708754,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,746976.0,Nguyen Viet Hung,5,Cực kì hài lòng,,0,1617525114,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,8283784.0,Nguyễn Thành,5,Cực kì hài lòng,,0,1616198351,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+276328451,14086471.0,Mai Tuyen,5,Cực kì hài lòng,,0,1614463519,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,6335740.0,Tran Thi Thuy Tram,3,Bình thường,"Hàng nhận được có mùi hôi của chất liệu vải hay mực in. Theo mình, đường may hơi dối. Giặt có khả năng tưa hay bung chỉ. Chỗ xếp ly may chưa dính. Chất lượng không được như mình mong đợi. 
+Dịch vụ giao hàng của Tiki thì mình ko có gì phàn nàn nàn.",0,1714808196,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,11565331.0,Siêu Của,1,Rất không hài lòng,"Trước mua 1 lần lỗ rất bé, rất ưng ý,  bây giờ mua lại mà lỗ to hơn loại trước, ko vừa lòng tý nào, sau này tìm giải pháp mới,. Ai mua cân nhắc trước khi mua.",0,1678420173,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,19556148.0,Thu Hiền,5,Cực kì hài lòng,"quá tuyệt vời, lỗ nhỏ nên muỗi kim cũng k vào đc, mọi người nên mua nhé",0,1720451968,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,13931579.0,Hai Duong,5,Cực kì hài lòng,,0,1745836594,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,6366393.0,Hwon Nay,5,Cực kì hài lòng,"Mùng rất đẹp . Giá cả vậy là hợp lý. Màu xanh nhìn mắt mẻ hẳn. Đóng gói cẩn thận. 
+Nếu có nhu cầu sẽ tiếp tục ủng hộ shop.",1,1621593042,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,6154372.0,Nguyễn Hoàng Anh,5,Cực kì hài lòng,,0,1741854030,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,24149109.0,kim Quyên,4,Hài lòng,Mình thấy cũng được. May thẳng góc vừa vặn... Tuy nhiên đem giặt trước khi xài thì mấy hoa màu hồng bị phai màu...còn chất lượng lưới có bền hay ko thì phải xài 1 thời gian mới biết ạ.,0,1648129320,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,1433660.0,họ tên phải từ hai từ trở lên,5,Cực kì hài lòng,"Chất lượng rất tốt, xứng với giá tiền
+Mùng dày dặn và đẹp, mền chứ không bị thô cứng như các loại kém chất lượng khác, nói chung là rất hài lòng tiền nào thì của nấy thôi ạ
+Giao hàng siêu nhanh",0,1613657694,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,14507505.0,Bùi Thị Thuỳ Trang ,4,Hài lòng,MÙNG 1.8 MÀ THẤY NHỎ . PHẢI KIẾM MUA CÁI KHÁC LỚN HƠN,0,1686104504,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,6235027.0,Dinh Ngoc Tuan,5,Cực kì hài lòng,"Mùng rất đẹp, không bị muỗi cắn, ngủ ngon. Cảm giác giống như là mùng cho cung điện. Những bạn nào nhà có nhiều muỗi mà muốn ngủ không cần máy lạnh vào mùa này trời đang lạnh thì nên mua cái mùng này.",0,1609985416,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,5991723.0,Hoàng Minh,4,Hài lòng,"mùng nhỏ, và mềm mịn, khá là đẹp",0,1676384238,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,23810294.0,kim loan,5,Cực kì hài lòng,"Mình thấy mùng may đẹp, màu xanh cho cảm giác mát mẻ... thấy hài lòng sản phẩm nầy. Nếu có nhu cầu sẽ tiếp tục ủng hộ shop.",0,1648286846,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,11957743.0,Trung tâm ngoại ngữ Queen Mary,5,Cực kì hài lòng,"Mùng rất dày, rộng và vuông vức. So với giá thì rất rẻ so với chất lượng này. Xứng đáng 6 sao, cảm ơn shop rất nhiều",0,1617811134,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,7329698.0,Nguyễn Nhâm Thân,5,Cực kì hài lòng,Chất lượng oki. không có gì phàn nàn.,0,1650288675,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,15196875.0,Nguyễn Nhật Huy,5,Cực kì hài lòng,,0,1692607643,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,16919148.0,Thái Phan Bảo Hân,5,Cực kì hài lòng,"giao hàng cực nhanh, shipper lịch sự, giao đúng màu, đúng mẫu, mùng đẹp. Thích lắm. Cảm ơn shop và tiki.",0,1635345516,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,12843834.0,Trung Hiếu,5,"mùng đẹp, lỗ siêu nhỏ. sờ tay chất mùng rất thích","tôi mua xài dưới quê. dưới này muỗi nhiều nhưng mùng này mắt nhỏ, sờ tay vải mùng mềm mịn ko sần sùi như mấy cái trc tôi mua ở quê. Hàng tiki đúng là chất lượng thật.",2,1591027722,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,20434804.0,Dương Trac,5,Cực kì hài lòng,,0,1687142008,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,5975938.0,Phi Nguyen,5,Cực kì hài lòng,Màu xanh lá mà giao xanh da trời,0,1660897611,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,5975938.0,Phi Nguyen,5,Cực kì hài lòng,"Nhìn OK, mà giá hơi cao",0,1660897557,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,6625766.0,chị thảo,5,Cực kì hài lòng,"Mùng đẹp, chất lượng tốt ạ",0,1670128468,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,7886280.0,Phạm Quốc Quyền,1,Rất không hài lòng,Quá mỏng chưa như mong muốn,0,1670293554,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,15512542.0,Nguyen Phu Binh,5,Cực kì hài lòng,,0,1680603327,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,21667600.0,Phạm Thanh Thảo,5,Cực kì hài lòng,Đúng mẫu mã như quảng cáo,0,1668338837,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,13153924.0,Nguyễn Linh,5,Cực kì hài lòng,họa tiết mình rất đẹp,0,1669193882,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,11722130.0,Gioan Minh,5,Cực kì hài lòng,Sản phầm tốt. Bền chắc.,0,1668143584,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,8553762.0,HUAN LE DUC,5,Cực kì hài lòng,"Sản phẩm quá tốt so với mong đợi, vải lưới dày, chắc chắn.
+Dùng Tikinow nên chưa tới 2h là giao xong, quá nhanh
+Đánh giá shop 5*",0,1613633840,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,6616500.0,di t,5,Chất lượng tốt,"Không còn bị muỗi cắn nữa các bạn ạ
+Không còn bị muỗi cắn nữa các bạn ạ",0,1617285555,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,8790997.0,Nguyễn Văn Nhật,5,Cực kì hài lòng,,0,1677404011,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,13116450.0,Chi Nguyễn,5,Cực kì hài lòng,,0,1675661209,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,7993121.0,Ha Huong,5,Cực kì hài lòng,"Rất đẹp nhé, loại này k bị xước như cái mua ngoài chợ đâu. Mình ưng nó, sẽ mua cái nữa ?",0,1624434879,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,21745728.0,gieo Lộc thanh ,5,Cực kì hài lòng,"mùng ngủ màu đẹp
+hơi dầy tí đẹp cảm ơn tiki",0,1640952635,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,7377077.0,Nguyễn Trọng Toàn,4,Hài lòng,,0,1673538551,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,14758880.0,Nguyen Thi Diem Phuc,5,Cực kì hài lòng,"tốt, rẻ",0,1641027616,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,26511401.0,Chanhgl Nguyen,5,Cực kì hài lòng,"mùng chắc  chăn ngon rẻ, luôn luôn ung hô sop",0,1654799950,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,10521717.0,Lê Ngọc Quí,4,Hài lòng,Trừ shop 1* nhé. Mình đặt màu xanh lá cây mà giao xanh dương nhe shop ???,0,1616215181,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,7457252.0,An Nguyen,5,Cực kì hài lòng,,0,1671348938,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,5493999.0,Nguyễn Jason,4,Hài lòng,"mùng dày dặn, vải hơi cứng, lỗ nhỏ.",0,1641947637,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,22509409.0,Tu Trinh,5,Cực kì hài lòng,,0,1670913632,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
+53830664,10746492.0,Tran Cam Tu,5,Cực kì hài lòng,"Mùng xài rất ok , sẽ ủng hộ shop",0,1657124220,phụ kiện phòng ngủ,Đồ dùng phòng ngủ
